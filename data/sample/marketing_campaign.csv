@@ -1,0 +1,19 @@
+﻿Campaign_ID,Physician_ID,Campaign_Type,Contact_Frequency,Last_Contact_Date,Engagement_Response
+C001,P001,Email,4,12/15/23,High
+C002,P002,Phone Call,NaN,12/10/23,Medium
+C003,P003,Event,1,11/20/23,High
+C004,P004,Email,30,12/18/23,Low
+C005,P005,Event,2,NaN,Medium
+C006,P006,Email,3,12/25/23,Medium
+C007,P007,NaN,5,12/18/23,high
+C008,P008,Phone_Call,NaN,11/29/23,Low
+C009,P009,Event,2,12/30/23,HIGH
+C010,P010,Email,3,12/10/23,Medium
+C011,P011,Phone Call,2,12/9/23,Low
+C012,P012,Event,NaN,NaN,NaN
+C013,P013,Phone_Call,3,11/15/23,medium
+C014,P014,Event,NaN,11/22/23,Low
+C015,P015,Email,1,12/5/23,NaN
+C016,P016,Phone Call,7,12/14/23,High
+C017,P017,NaN,NaN,12/28/23,Low
+C018,P018,Email,0,NaN,High

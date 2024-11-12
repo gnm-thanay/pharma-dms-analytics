@@ -1,0 +1,19 @@
+﻿Physician_ID,Specialty,Years_of_Experience,Region,Previous_Prescriptions,Engagement_Score
+P001,Oncology,15,Northeast,100,85
+P002,GP,7,Midwest,45,70
+P003,Oncology,NaN,Southeast,60,95
+P004,Hematology,20,West,120,NaN
+P005,Oncology,-1,Northeast,30,60
+P006,Oncology,25,Midwest,75,80
+P007,General Practice,NaN,Northeast,50,65
+P008,Oncology,8,Southeast,NaN,75
+P009,Hematology,18,Southeast,90,50
+P010,Oncology,5,West,45,40
+P011,GP,12,Midwest,55,55
+P012,General_Practice,10,Southeast,0,35
+P013,Oncology,30,Northeast,200,90
+P014,Hematology,NaN,Midwest,NaN,60
+P015,Oncology,40,Southeast,10,20
+P016,GP,3,Northeast,25,NaN
+P017,Oncology,100,Midwest,35,45
+P018,Hematology,15,Southeast,NaN,55

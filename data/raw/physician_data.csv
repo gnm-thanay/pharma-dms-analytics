@@ -1,0 +1,2001 @@
+Physician_ID,Specialty,Years_of_Experience,Region,Previous_Prescriptions,Engagement_Score
+P0001,GP,5.0,Southeast,43.0,43.0
+P0002,General_Practice,16.0,Northeast,44.0,87.0
+P0003,Oncology,0.0,West,59.0,97.0
+P0004,General_Practice,,Midwest,53.0,45.0
+P0005,General_Practice,18.0,Midwest,66.0,38.0
+P0006,General Practice,16.0,Midwest,57.0,
+P0007,GP,19.0,Midwest,38.0,98.0
+P0008,GP,19.0,Midwest,,47.0
+P0009,Hematology,15.0,Midwest,57.0,
+P0010,Hematology,19.0,Northeast,45.0,23.0
+P0011,GP,21.0,Midwest,47.0,74.0
+P0012,General_Practice,,Southeast,,41.0
+P0013,Hematology,19.0,Midwest,49.0,62.0
+P0014,General Practice,,West,,29.0
+P0015,General_Practice,10.0,Southeast,60.0,
+P0016,Oncology,10.0,Southeast,39.0,
+P0017,Oncology,,West,49.0,64.0
+P0018,General_Practice,17.0,Southeast,52.0,57.0
+P0019,GP,9.0,Southeast,47.0,88.0
+P0020,Oncology,12.0,Northeast,,88.0
+P0021,Hematology,,Southeast,73.0,92.0
+P0022,Oncology,16.0,Midwest,50.0,51.0
+P0023,Oncology,16.0,West,59.0,21.0
+P0024,General_Practice,31.0,Southeast,39.0,23.0
+P0025,General Practice,21.0,Southeast,53.0,32.0
+P0026,General Practice,23.0,Southeast,,26.0
+P0027,General Practice,15.0,West,50.0,52.0
+P0028,Oncology,11.0,Southeast,56.0,22.0
+P0029,General_Practice,27.0,West,45.0,
+P0030,GP,26.0,West,60.0,86.0
+P0031,GP,16.0,Southeast,53.0,44.0
+P0032,General_Practice,14.0,Midwest,55.0,43.0
+P0033,GP,1.0,Southeast,55.0,75.0
+P0034,General_Practice,0.0,Southeast,57.0,29.0
+P0035,General Practice,11.0,West,49.0,75.0
+P0036,General_Practice,6.0,Midwest,56.0,26.0
+P0037,Oncology,150.0,Northeast,,66.0
+P0038,General_Practice,11.0,Midwest,,46.0
+P0039,General Practice,5.0,Northeast,60.0,
+P0040,General_Practice,37.0,Midwest,47.0,57.0
+P0041,General_Practice,18.0,Southeast,49.0,
+P0042,Hematology,5.0,Midwest,58.0,40.0
+P0043,General Practice,33.0,West,,36.0
+P0044,Oncology,100.0,West,63.0,88.0
+P0045,Oncology,10.0,Northeast,49.0,89.0
+P0046,GP,21.0,Northeast,48.0,
+P0047,GP,150.0,Southeast,53.0,68.0
+P0048,General_Practice,13.0,Northeast,38.0,60.0
+P0049,Hematology,13.0,Northeast,39.0,79.0
+P0050,Oncology,11.0,Southeast,39.0,
+P0051,General Practice,23.0,Midwest,,78.0
+P0052,GP,22.0,Southeast,52.0,64.0
+P0053,GP,16.0,Southeast,50.0,88.0
+P0054,GP,14.0,West,43.0,95.0
+P0055,GP,11.0,Northeast,38.0,57.0
+P0056,Oncology,5.0,Southeast,50.0,62.0
+P0057,Hematology,33.0,West,46.0,52.0
+P0058,GP,20.0,Northeast,42.0,86.0
+P0059,General Practice,2.0,Midwest,54.0,37.0
+P0060,Oncology,33.0,Midwest,,61.0
+P0061,Oncology,9.0,West,,65.0
+P0062,GP,16.0,West,45.0,25.0
+P0063,GP,,West,48.0,31.0
+P0064,General Practice,25.0,Midwest,50.0,48.0
+P0065,General Practice,12.0,Southeast,66.0,91.0
+P0066,Oncology,15.0,Northeast,59.0,99.0
+P0067,Hematology,0.0,West,49.0,
+P0068,Hematology,19.0,Midwest,47.0,98.0
+P0069,Hematology,42.0,Midwest,49.0,
+P0070,General_Practice,19.0,Southeast,46.0,87.0
+P0071,General_Practice,35.0,Midwest,46.0,79.0
+P0072,General Practice,47.0,Southeast,44.0,
+P0073,GP,36.0,Northeast,,80.0
+P0074,GP,-4.0,West,49.0,
+P0075,GP,10.0,Midwest,58.0,63.0
+P0076,GP,15.0,Southeast,51.0,25.0
+P0077,General_Practice,8.0,Southeast,49.0,
+P0078,General_Practice,6.0,Midwest,,46.0
+P0079,GP,24.0,West,59.0,90.0
+P0080,GP,26.0,West,48.0,31.0
+P0081,Hematology,37.0,Midwest,51.0,
+P0082,Oncology,11.0,West,55.0,71.0
+P0083,Oncology,16.0,Midwest,56.0,92.0
+P0084,General_Practice,13.0,Southeast,58.0,47.0
+P0085,Oncology,20.0,West,64.0,28.0
+P0086,GP,,Southeast,,23.0
+P0087,General Practice,18.0,Midwest,53.0,97.0
+P0088,General_Practice,-3.0,West,57.0,67.0
+P0089,Hematology,17.0,Midwest,44.0,
+P0090,General_Practice,,West,,95.0
+P0091,General Practice,12.0,Midwest,,45.0
+P0092,Hematology,1.0,Midwest,54.0,40.0
+P0093,GP,13.0,West,55.0,89.0
+P0094,Hematology,27.0,Southeast,46.0,83.0
+P0095,Oncology,0.0,Midwest,43.0,
+P0096,Oncology,,West,50.0,
+P0097,Oncology,31.0,West,45.0,84.0
+P0098,General_Practice,18.0,Midwest,56.0,98.0
+P0099,Hematology,0.0,Southeast,57.0,
+P0100,General_Practice,,West,62.0,39.0
+P0101,General Practice,,Northeast,58.0,85.0
+P0102,Hematology,28.0,West,,80.0
+P0103,Oncology,8.0,Midwest,56.0,34.0
+P0104,Hematology,35.0,Midwest,54.0,64.0
+P0105,General Practice,15.0,Northeast,51.0,29.0
+P0106,General_Practice,24.0,West,49.0,33.0
+P0107,GP,14.0,Midwest,58.0,32.0
+P0108,GP,22.0,Northeast,46.0,73.0
+P0109,General_Practice,10.0,Southeast,53.0,30.0
+P0110,Hematology,10.0,Southeast,52.0,50.0
+P0111,Hematology,4.0,West,,21.0
+P0112,Oncology,,West,44.0,84.0
+P0113,Hematology,30.0,Midwest,57.0,55.0
+P0114,GP,-1.0,Northeast,34.0,32.0
+P0115,Hematology,18.0,Northeast,60.0,
+P0116,Oncology,0.0,Northeast,52.0,30.0
+P0117,General Practice,25.0,Midwest,47.0,39.0
+P0118,General Practice,18.0,Midwest,45.0,71.0
+P0119,GP,,Southeast,56.0,43.0
+P0120,Hematology,5.0,Midwest,,37.0
+P0121,General Practice,3.0,West,46.0,94.0
+P0122,General_Practice,13.0,Northeast,51.0,53.0
+P0123,GP,100.0,West,66.0,81.0
+P0124,GP,17.0,Northeast,47.0,47.0
+P0125,General_Practice,9.0,West,35.0,99.0
+P0126,Hematology,2.0,Midwest,47.0,38.0
+P0127,GP,1.0,Midwest,53.0,53.0
+P0128,Oncology,12.0,West,55.0,71.0
+P0129,GP,26.0,Northeast,49.0,100.0
+P0130,Hematology,7.0,Midwest,61.0,48.0
+P0131,GP,9.0,Northeast,44.0,85.0
+P0132,Oncology,20.0,Midwest,53.0,49.0
+P0133,General Practice,-1.0,Northeast,49.0,26.0
+P0134,Oncology,21.0,Southeast,33.0,96.0
+P0135,Hematology,-1.0,Northeast,50.0,45.0
+P0136,General_Practice,13.0,West,46.0,59.0
+P0137,Hematology,31.0,West,52.0,82.0
+P0138,Hematology,42.0,Midwest,38.0,30.0
+P0139,Oncology,7.0,West,58.0,70.0
+P0140,General Practice,14.0,Midwest,39.0,47.0
+P0141,Oncology,18.0,Northeast,47.0,49.0
+P0142,General_Practice,0.0,Midwest,69.0,51.0
+P0143,GP,-2.0,Southeast,39.0,69.0
+P0144,General_Practice,12.0,Southeast,54.0,52.0
+P0145,General_Practice,15.0,Northeast,46.0,80.0
+P0146,General Practice,11.0,West,64.0,97.0
+P0147,General Practice,5.0,Midwest,53.0,60.0
+P0148,Hematology,3.0,West,54.0,40.0
+P0149,Hematology,8.0,West,50.0,73.0
+P0150,General_Practice,20.0,West,48.0,61.0
+P0151,GP,,Midwest,,49.0
+P0152,Oncology,8.0,Northeast,46.0,67.0
+P0153,Oncology,0.0,Northeast,55.0,
+P0154,Oncology,7.0,Northeast,39.0,53.0
+P0155,General_Practice,2.0,West,45.0,67.0
+P0156,Hematology,,Northeast,48.0,84.0
+P0157,GP,15.0,Southeast,40.0,30.0
+P0158,Oncology,20.0,Southeast,32.0,43.0
+P0159,Hematology,21.0,Southeast,55.0,
+P0160,Hematology,15.0,Southeast,67.0,39.0
+P0161,Oncology,17.0,Northeast,42.0,70.0
+P0162,General Practice,,Southeast,38.0,36.0
+P0163,General_Practice,8.0,Midwest,59.0,54.0
+P0164,General Practice,21.0,West,51.0,88.0
+P0165,Hematology,13.0,Southeast,46.0,100.0
+P0166,GP,27.0,West,46.0,42.0
+P0167,Oncology,30.0,West,59.0,66.0
+P0168,Oncology,150.0,Northeast,54.0,34.0
+P0169,Hematology,16.0,Midwest,44.0,81.0
+P0170,GP,29.0,Southeast,,28.0
+P0171,Oncology,,West,56.0,68.0
+P0172,Hematology,18.0,Southeast,48.0,86.0
+P0173,GP,12.0,Northeast,53.0,38.0
+P0174,Hematology,22.0,Midwest,51.0,90.0
+P0175,GP,-1.0,West,52.0,60.0
+P0176,General Practice,24.0,Northeast,49.0,26.0
+P0177,Oncology,3.0,West,56.0,40.0
+P0178,General Practice,6.0,West,50.0,60.0
+P0179,General_Practice,9.0,Midwest,46.0,44.0
+P0180,Hematology,28.0,West,62.0,56.0
+P0181,General_Practice,17.0,West,54.0,26.0
+P0182,Hematology,9.0,Southeast,58.0,39.0
+P0183,GP,,West,48.0,100.0
+P0184,Hematology,12.0,Southeast,54.0,95.0
+P0185,General Practice,21.0,West,41.0,94.0
+P0186,GP,,Midwest,45.0,56.0
+P0187,Hematology,29.0,Midwest,58.0,96.0
+P0188,Hematology,-20.0,Northeast,61.0,70.0
+P0189,Oncology,24.0,West,50.0,37.0
+P0190,Oncology,13.0,West,58.0,37.0
+P0191,Hematology,13.0,Southeast,53.0,75.0
+P0192,General Practice,11.0,Northeast,46.0,55.0
+P0193,Oncology,22.0,Midwest,50.0,98.0
+P0194,General_Practice,11.0,Northeast,49.0,33.0
+P0195,General Practice,18.0,Southeast,48.0,87.0
+P0196,Hematology,22.0,Midwest,51.0,53.0
+P0197,General Practice,24.0,Northeast,42.0,77.0
+P0198,General_Practice,-11.0,Northeast,40.0,67.0
+P0199,General Practice,150.0,Northeast,48.0,24.0
+P0200,General_Practice,19.0,West,58.0,20.0
+P0201,Oncology,26.0,West,68.0,27.0
+P0202,General Practice,29.0,Midwest,,
+P0203,Oncology,13.0,Southeast,54.0,27.0
+P0204,General Practice,-3.0,Southeast,49.0,68.0
+P0205,General Practice,10.0,Northeast,47.0,
+P0206,Oncology,12.0,Midwest,54.0,27.0
+P0207,General Practice,38.0,Midwest,56.0,68.0
+P0208,General_Practice,3.0,West,54.0,93.0
+P0209,Oncology,4.0,Southeast,49.0,51.0
+P0210,GP,15.0,Northeast,42.0,59.0
+P0211,Hematology,-1.0,Midwest,44.0,87.0
+P0212,Oncology,25.0,Southeast,50.0,
+P0213,Hematology,7.0,Northeast,51.0,57.0
+P0214,Oncology,1.0,West,57.0,52.0
+P0215,GP,24.0,Southeast,38.0,39.0
+P0216,Oncology,33.0,Midwest,55.0,75.0
+P0217,General_Practice,10.0,Southeast,51.0,53.0
+P0218,Hematology,21.0,Southeast,47.0,67.0
+P0219,GP,22.0,Southeast,50.0,
+P0220,General_Practice,4.0,Midwest,46.0,99.0
+P0221,General Practice,18.0,West,48.0,49.0
+P0222,GP,20.0,West,53.0,28.0
+P0223,Oncology,6.0,Midwest,42.0,80.0
+P0224,GP,17.0,West,40.0,
+P0225,General Practice,18.0,West,52.0,72.0
+P0226,General_Practice,20.0,Northeast,51.0,94.0
+P0227,General_Practice,0.0,Midwest,58.0,36.0
+P0228,Hematology,14.0,Northeast,52.0,88.0
+P0229,Hematology,23.0,Northeast,31.0,62.0
+P0230,Oncology,12.0,Northeast,43.0,80.0
+P0231,Oncology,9.0,Southeast,56.0,72.0
+P0232,GP,14.0,Northeast,44.0,76.0
+P0233,Oncology,25.0,West,,52.0
+P0234,Hematology,17.0,Northeast,42.0,55.0
+P0235,General_Practice,,West,44.0,
+P0236,General Practice,13.0,Southeast,46.0,91.0
+P0237,Hematology,31.0,Midwest,53.0,
+P0238,General Practice,9.0,West,53.0,20.0
+P0239,GP,8.0,West,56.0,50.0
+P0240,General Practice,7.0,Northeast,48.0,42.0
+P0241,GP,16.0,Midwest,46.0,40.0
+P0242,General Practice,3.0,West,52.0,75.0
+P0243,Oncology,1.0,West,48.0,72.0
+P0244,Oncology,6.0,Northeast,59.0,48.0
+P0245,General Practice,20.0,Northeast,51.0,65.0
+P0246,General_Practice,30.0,Northeast,47.0,38.0
+P0247,Oncology,33.0,Northeast,43.0,81.0
+P0248,GP,21.0,Midwest,49.0,84.0
+P0249,Oncology,8.0,Southeast,48.0,44.0
+P0250,General Practice,25.0,Southeast,,93.0
+P0251,General Practice,24.0,Midwest,47.0,51.0
+P0252,General Practice,15.0,Midwest,41.0,40.0
+P0253,General_Practice,20.0,Southeast,41.0,
+P0254,Hematology,,West,58.0,92.0
+P0255,Hematology,,West,43.0,50.0
+P0256,General_Practice,,Southeast,,82.0
+P0257,General Practice,5.0,Northeast,59.0,77.0
+P0258,GP,21.0,Midwest,57.0,27.0
+P0259,GP,23.0,Southeast,,54.0
+P0260,Oncology,,West,,
+P0261,GP,13.0,Midwest,53.0,31.0
+P0262,Oncology,25.0,Southeast,47.0,30.0
+P0263,Hematology,20.0,West,59.0,83.0
+P0264,GP,19.0,West,51.0,45.0
+P0265,General Practice,,Northeast,,78.0
+P0266,Oncology,25.0,West,45.0,
+P0267,Oncology,9.0,West,39.0,100.0
+P0268,Oncology,14.0,West,50.0,65.0
+P0269,Hematology,19.0,Midwest,43.0,48.0
+P0270,General_Practice,27.0,West,,95.0
+P0271,GP,35.0,Midwest,44.0,79.0
+P0272,General Practice,21.0,Southeast,61.0,52.0
+P0273,General_Practice,3.0,Northeast,39.0,100.0
+P0274,General Practice,32.0,Midwest,65.0,
+P0275,GP,26.0,Southeast,35.0,43.0
+P0276,General Practice,7.0,Midwest,51.0,85.0
+P0277,Oncology,39.0,West,51.0,41.0
+P0278,General_Practice,,Northeast,55.0,
+P0279,General Practice,10.0,Northeast,,43.0
+P0280,Oncology,150.0,Southeast,69.0,
+P0281,General Practice,16.0,Northeast,47.0,37.0
+P0282,General_Practice,30.0,West,45.0,94.0
+P0283,Oncology,,Southeast,43.0,
+P0284,General_Practice,30.0,Midwest,45.0,
+P0285,Hematology,19.0,Midwest,48.0,37.0
+P0286,GP,8.0,West,48.0,68.0
+P0287,General_Practice,26.0,West,49.0,71.0
+P0288,Oncology,31.0,Southeast,49.0,55.0
+P0289,Hematology,14.0,Midwest,59.0,100.0
+P0290,Hematology,7.0,West,44.0,52.0
+P0291,Oncology,3.0,West,53.0,89.0
+P0292,GP,9.0,Southeast,49.0,65.0
+P0293,Oncology,100.0,Northeast,42.0,87.0
+P0294,GP,24.0,Midwest,49.0,90.0
+P0295,GP,21.0,Midwest,53.0,45.0
+P0296,General_Practice,-7.0,Southeast,49.0,26.0
+P0297,Hematology,4.0,Northeast,,94.0
+P0298,Oncology,17.0,Northeast,51.0,67.0
+P0299,GP,19.0,Southeast,51.0,21.0
+P0300,Oncology,3.0,West,50.0,41.0
+P0301,Oncology,32.0,West,49.0,
+P0302,General Practice,7.0,Northeast,47.0,40.0
+P0303,General Practice,10.0,Midwest,47.0,55.0
+P0304,General_Practice,11.0,Northeast,45.0,84.0
+P0305,General Practice,29.0,Midwest,41.0,
+P0306,General_Practice,17.0,Southeast,38.0,51.0
+P0307,GP,16.0,Northeast,52.0,64.0
+P0308,General Practice,13.0,West,51.0,78.0
+P0309,General Practice,27.0,Southeast,48.0,88.0
+P0310,Oncology,22.0,West,51.0,
+P0311,Oncology,15.0,Midwest,54.0,73.0
+P0312,GP,0.0,Midwest,45.0,68.0
+P0313,General Practice,13.0,Southeast,,60.0
+P0314,GP,,West,51.0,30.0
+P0315,General_Practice,7.0,West,50.0,21.0
+P0316,General_Practice,31.0,West,54.0,46.0
+P0317,General_Practice,33.0,Midwest,60.0,45.0
+P0318,GP,12.0,Southeast,48.0,57.0
+P0319,GP,,West,70.0,87.0
+P0320,Oncology,13.0,West,44.0,100.0
+P0321,General_Practice,9.0,West,50.0,58.0
+P0322,GP,17.0,Midwest,61.0,35.0
+P0323,Oncology,11.0,Midwest,,78.0
+P0324,Oncology,20.0,Southeast,61.0,33.0
+P0325,Oncology,1.0,Northeast,60.0,63.0
+P0326,GP,30.0,Northeast,54.0,92.0
+P0327,General Practice,17.0,Midwest,47.0,63.0
+P0328,GP,-1.0,Northeast,50.0,45.0
+P0329,General_Practice,24.0,West,49.0,44.0
+P0330,General Practice,14.0,Southeast,57.0,38.0
+P0331,GP,16.0,Southeast,47.0,46.0
+P0332,General_Practice,,Southeast,57.0,94.0
+P0333,Hematology,23.0,Southeast,50.0,80.0
+P0334,Oncology,20.0,Southeast,45.0,28.0
+P0335,General Practice,,Midwest,46.0,
+P0336,Oncology,19.0,Northeast,44.0,61.0
+P0337,Hematology,12.0,Northeast,41.0,73.0
+P0338,General_Practice,21.0,Midwest,38.0,89.0
+P0339,GP,8.0,Northeast,59.0,45.0
+P0340,General_Practice,21.0,Midwest,56.0,59.0
+P0341,General Practice,10.0,West,44.0,43.0
+P0342,GP,7.0,Southeast,48.0,77.0
+P0343,General Practice,24.0,Midwest,60.0,70.0
+P0344,Oncology,,Northeast,53.0,86.0
+P0345,Hematology,28.0,Southeast,43.0,83.0
+P0346,Oncology,8.0,Midwest,,22.0
+P0347,Oncology,17.0,Northeast,36.0,48.0
+P0348,General Practice,2.0,Northeast,38.0,55.0
+P0349,GP,17.0,West,58.0,47.0
+P0350,Oncology,32.0,Northeast,33.0,77.0
+P0351,Hematology,,Southeast,46.0,83.0
+P0352,General Practice,,Southeast,54.0,56.0
+P0353,General Practice,,Northeast,46.0,90.0
+P0354,Oncology,13.0,Northeast,46.0,99.0
+P0355,Hematology,9.0,Midwest,48.0,69.0
+P0356,General_Practice,,Midwest,54.0,82.0
+P0357,General Practice,20.0,Northeast,53.0,65.0
+P0358,Hematology,-8.0,Midwest,50.0,68.0
+P0359,GP,-4.0,Southeast,53.0,75.0
+P0360,Oncology,12.0,West,54.0,52.0
+P0361,General_Practice,25.0,Midwest,53.0,40.0
+P0362,General Practice,14.0,West,,
+P0363,General Practice,1.0,West,59.0,
+P0364,Hematology,,West,48.0,
+P0365,General Practice,17.0,Northeast,51.0,72.0
+P0366,GP,3.0,Midwest,,43.0
+P0367,General Practice,4.0,Southeast,57.0,39.0
+P0368,General Practice,15.0,Northeast,58.0,44.0
+P0369,General_Practice,19.0,Southeast,50.0,46.0
+P0370,Oncology,19.0,Midwest,,63.0
+P0371,Hematology,15.0,West,53.0,92.0
+P0372,General Practice,2.0,Midwest,54.0,
+P0373,General_Practice,10.0,Midwest,57.0,86.0
+P0374,Hematology,17.0,Southeast,56.0,49.0
+P0375,GP,,Midwest,44.0,41.0
+P0376,Oncology,-4.0,Northeast,43.0,34.0
+P0377,GP,12.0,West,47.0,65.0
+P0378,GP,150.0,Southeast,57.0,78.0
+P0379,GP,32.0,Southeast,43.0,20.0
+P0380,GP,19.0,Northeast,61.0,42.0
+P0381,General Practice,14.0,Northeast,52.0,68.0
+P0382,General Practice,31.0,Midwest,35.0,
+P0383,General_Practice,12.0,Midwest,46.0,58.0
+P0384,Hematology,14.0,West,48.0,77.0
+P0385,Hematology,26.0,Midwest,51.0,76.0
+P0386,General_Practice,14.0,Midwest,39.0,50.0
+P0387,General_Practice,21.0,West,51.0,74.0
+P0388,Hematology,18.0,Northeast,40.0,46.0
+P0389,General_Practice,17.0,Northeast,48.0,100.0
+P0390,GP,4.0,Northeast,65.0,86.0
+P0391,General Practice,9.0,Southeast,48.0,73.0
+P0392,General Practice,25.0,Midwest,56.0,63.0
+P0393,Oncology,12.0,Northeast,,89.0
+P0394,General_Practice,15.0,Midwest,50.0,25.0
+P0395,GP,,West,50.0,100.0
+P0396,GP,,West,40.0,55.0
+P0397,GP,100.0,Northeast,56.0,65.0
+P0398,Oncology,23.0,Northeast,51.0,33.0
+P0399,Oncology,2.0,West,59.0,59.0
+P0400,General_Practice,100.0,West,42.0,
+P0401,GP,25.0,West,52.0,
+P0402,Hematology,22.0,Midwest,47.0,48.0
+P0403,Hematology,10.0,Midwest,47.0,35.0
+P0404,General_Practice,-3.0,Northeast,47.0,87.0
+P0405,Hematology,8.0,Southeast,40.0,25.0
+P0406,Hematology,7.0,West,,77.0
+P0407,Oncology,29.0,Midwest,40.0,41.0
+P0408,General Practice,29.0,Northeast,63.0,49.0
+P0409,General Practice,13.0,Northeast,52.0,60.0
+P0410,GP,,Southeast,38.0,45.0
+P0411,General_Practice,11.0,Midwest,52.0,86.0
+P0412,GP,6.0,Northeast,64.0,64.0
+P0413,Hematology,8.0,Southeast,65.0,44.0
+P0414,Oncology,11.0,West,59.0,34.0
+P0415,General Practice,40.0,Southeast,48.0,59.0
+P0416,Oncology,-5.0,Northeast,43.0,84.0
+P0417,Oncology,-8.0,Midwest,59.0,59.0
+P0418,General_Practice,150.0,Northeast,48.0,37.0
+P0419,General Practice,21.0,Midwest,68.0,72.0
+P0420,General Practice,9.0,Northeast,54.0,69.0
+P0421,Oncology,-9.0,Midwest,63.0,37.0
+P0422,Hematology,19.0,Midwest,51.0,81.0
+P0423,Hematology,23.0,Southeast,34.0,64.0
+P0424,Hematology,20.0,West,43.0,37.0
+P0425,General Practice,15.0,Southeast,45.0,79.0
+P0426,Oncology,6.0,Midwest,39.0,72.0
+P0427,GP,18.0,West,60.0,82.0
+P0428,GP,12.0,Southeast,54.0,34.0
+P0429,General Practice,25.0,Northeast,49.0,52.0
+P0430,GP,20.0,Midwest,51.0,74.0
+P0431,GP,21.0,West,53.0,93.0
+P0432,Oncology,22.0,West,51.0,45.0
+P0433,Oncology,9.0,West,44.0,85.0
+P0434,General Practice,-2.0,Southeast,60.0,95.0
+P0435,Hematology,8.0,Midwest,57.0,88.0
+P0436,GP,17.0,Northeast,53.0,62.0
+P0437,General Practice,17.0,Midwest,42.0,23.0
+P0438,Hematology,,Northeast,57.0,78.0
+P0439,GP,-1.0,Northeast,42.0,46.0
+P0440,GP,25.0,Northeast,51.0,59.0
+P0441,Oncology,22.0,Northeast,45.0,64.0
+P0442,General_Practice,12.0,West,56.0,33.0
+P0443,Oncology,18.0,Northeast,64.0,56.0
+P0444,Oncology,32.0,West,49.0,49.0
+P0445,General_Practice,-6.0,Southeast,43.0,77.0
+P0446,GP,,Northeast,51.0,47.0
+P0447,Hematology,17.0,Southeast,51.0,47.0
+P0448,General Practice,21.0,Southeast,53.0,43.0
+P0449,Oncology,25.0,Northeast,51.0,27.0
+P0450,Hematology,,West,54.0,53.0
+P0451,GP,8.0,Southeast,49.0,37.0
+P0452,Oncology,28.0,Southeast,41.0,21.0
+P0453,Oncology,13.0,Northeast,57.0,96.0
+P0454,General Practice,9.0,Midwest,55.0,79.0
+P0455,GP,150.0,West,48.0,100.0
+P0456,General Practice,,Midwest,49.0,85.0
+P0457,General_Practice,6.0,Northeast,56.0,55.0
+P0458,Hematology,-4.0,Southeast,50.0,40.0
+P0459,Oncology,15.0,Southeast,55.0,42.0
+P0460,Oncology,3.0,West,50.0,61.0
+P0461,Oncology,7.0,Midwest,46.0,36.0
+P0462,GP,20.0,West,38.0,52.0
+P0463,General_Practice,18.0,Southeast,51.0,24.0
+P0464,Oncology,16.0,West,48.0,100.0
+P0465,Oncology,12.0,West,60.0,82.0
+P0466,Oncology,100.0,Midwest,59.0,63.0
+P0467,Oncology,22.0,Northeast,45.0,68.0
+P0468,Hematology,24.0,Midwest,46.0,
+P0469,GP,,West,49.0,98.0
+P0470,Oncology,10.0,West,46.0,
+P0471,Oncology,16.0,Southeast,41.0,
+P0472,GP,28.0,Northeast,,43.0
+P0473,General_Practice,7.0,Midwest,54.0,33.0
+P0474,GP,12.0,Southeast,39.0,21.0
+P0475,Hematology,9.0,West,48.0,29.0
+P0476,General_Practice,0.0,Midwest,53.0,66.0
+P0477,GP,21.0,West,40.0,76.0
+P0478,Oncology,22.0,Midwest,63.0,21.0
+P0479,GP,1.0,West,63.0,39.0
+P0480,General_Practice,7.0,Southeast,54.0,79.0
+P0481,Hematology,1.0,West,35.0,73.0
+P0482,Oncology,12.0,Northeast,56.0,81.0
+P0483,Hematology,21.0,Northeast,51.0,
+P0484,Oncology,19.0,Southeast,44.0,49.0
+P0485,Oncology,150.0,West,54.0,92.0
+P0486,General_Practice,4.0,Northeast,57.0,49.0
+P0487,GP,21.0,Northeast,45.0,53.0
+P0488,Oncology,8.0,Midwest,51.0,33.0
+P0489,General Practice,23.0,Midwest,48.0,58.0
+P0490,GP,20.0,Southeast,58.0,52.0
+P0491,General Practice,15.0,Southeast,40.0,63.0
+P0492,Oncology,24.0,West,43.0,99.0
+P0493,Oncology,27.0,Southeast,63.0,72.0
+P0494,General Practice,22.0,West,50.0,40.0
+P0495,General_Practice,3.0,Southeast,,84.0
+P0496,General Practice,4.0,Northeast,59.0,68.0
+P0497,General_Practice,,Midwest,46.0,25.0
+P0498,GP,5.0,Midwest,51.0,56.0
+P0499,General Practice,11.0,West,54.0,67.0
+P0500,GP,5.0,West,,47.0
+P0501,General Practice,150.0,Northeast,45.0,52.0
+P0502,Hematology,7.0,Southeast,50.0,39.0
+P0503,GP,15.0,West,47.0,
+P0504,Oncology,20.0,Midwest,49.0,
+P0505,Oncology,,Southeast,,25.0
+P0506,GP,6.0,Southeast,,100.0
+P0507,Oncology,17.0,West,59.0,47.0
+P0508,Oncology,17.0,West,58.0,
+P0509,Hematology,0.0,Midwest,46.0,97.0
+P0510,Oncology,17.0,West,42.0,75.0
+P0511,Oncology,13.0,Midwest,44.0,54.0
+P0512,General Practice,2.0,Southeast,47.0,82.0
+P0513,General_Practice,,Northeast,52.0,78.0
+P0514,GP,12.0,Northeast,62.0,48.0
+P0515,General_Practice,5.0,Midwest,,96.0
+P0516,General Practice,20.0,Northeast,60.0,
+P0517,GP,17.0,West,40.0,22.0
+P0518,GP,19.0,Southeast,52.0,91.0
+P0519,Hematology,4.0,Southeast,,
+P0520,General Practice,-3.0,Northeast,56.0,61.0
+P0521,General Practice,18.0,Southeast,57.0,36.0
+P0522,Oncology,21.0,Midwest,45.0,87.0
+P0523,Oncology,29.0,Southeast,46.0,100.0
+P0524,GP,,West,50.0,70.0
+P0525,Hematology,-1.0,West,49.0,97.0
+P0526,Oncology,-1.0,Midwest,42.0,32.0
+P0527,General Practice,10.0,West,,43.0
+P0528,Oncology,31.0,Southeast,,55.0
+P0529,General_Practice,29.0,Southeast,49.0,78.0
+P0530,General_Practice,7.0,Southeast,54.0,75.0
+P0531,Hematology,6.0,Midwest,43.0,59.0
+P0532,Oncology,11.0,Northeast,,63.0
+P0533,General_Practice,19.0,Southeast,53.0,20.0
+P0534,GP,,Northeast,,76.0
+P0535,Hematology,20.0,West,,81.0
+P0536,GP,16.0,Southeast,48.0,41.0
+P0537,GP,24.0,Midwest,52.0,79.0
+P0538,General Practice,18.0,West,50.0,58.0
+P0539,Oncology,20.0,West,70.0,45.0
+P0540,General Practice,,Midwest,43.0,77.0
+P0541,GP,20.0,Southeast,52.0,41.0
+P0542,General_Practice,30.0,West,,43.0
+P0543,General_Practice,26.0,Southeast,,67.0
+P0544,General_Practice,10.0,Southeast,56.0,54.0
+P0545,GP,3.0,West,61.0,44.0
+P0546,General Practice,15.0,Northeast,,37.0
+P0547,Oncology,15.0,Midwest,39.0,78.0
+P0548,Oncology,10.0,Southeast,,100.0
+P0549,Hematology,150.0,Midwest,51.0,91.0
+P0550,Hematology,9.0,Midwest,40.0,90.0
+P0551,General Practice,24.0,Northeast,,85.0
+P0552,Hematology,,West,42.0,46.0
+P0553,General Practice,18.0,Northeast,47.0,59.0
+P0554,GP,18.0,West,48.0,
+P0555,General_Practice,-5.0,West,47.0,73.0
+P0556,Hematology,14.0,West,49.0,64.0
+P0557,Hematology,21.0,Midwest,44.0,50.0
+P0558,Hematology,-9.0,West,44.0,49.0
+P0559,GP,10.0,Northeast,48.0,79.0
+P0560,General Practice,,West,44.0,36.0
+P0561,GP,1.0,Midwest,45.0,60.0
+P0562,General_Practice,14.0,Midwest,44.0,39.0
+P0563,Oncology,25.0,Northeast,44.0,90.0
+P0564,GP,17.0,West,57.0,23.0
+P0565,Oncology,18.0,Midwest,53.0,50.0
+P0566,GP,30.0,Northeast,50.0,73.0
+P0567,General Practice,26.0,Northeast,45.0,66.0
+P0568,Oncology,22.0,Northeast,47.0,
+P0569,General Practice,14.0,Northeast,42.0,22.0
+P0570,General_Practice,27.0,Northeast,,68.0
+P0571,General Practice,,Southeast,64.0,81.0
+P0572,GP,12.0,Midwest,49.0,85.0
+P0573,GP,14.0,West,55.0,79.0
+P0574,Oncology,26.0,West,55.0,45.0
+P0575,Hematology,19.0,Northeast,57.0,30.0
+P0576,Hematology,13.0,Northeast,48.0,
+P0577,Oncology,18.0,West,63.0,42.0
+P0578,GP,15.0,Southeast,63.0,55.0
+P0579,Hematology,-1.0,Southeast,46.0,79.0
+P0580,General_Practice,19.0,Midwest,47.0,57.0
+P0581,General Practice,16.0,Midwest,46.0,57.0
+P0582,General Practice,17.0,Northeast,43.0,42.0
+P0583,GP,19.0,Midwest,57.0,100.0
+P0584,GP,14.0,West,58.0,80.0
+P0585,Hematology,,Southeast,48.0,53.0
+P0586,General_Practice,-2.0,West,42.0,68.0
+P0587,Oncology,33.0,Northeast,53.0,65.0
+P0588,Hematology,22.0,West,40.0,76.0
+P0589,General_Practice,15.0,Southeast,38.0,74.0
+P0590,GP,,Northeast,42.0,90.0
+P0591,Hematology,7.0,West,50.0,99.0
+P0592,Hematology,,Southeast,46.0,91.0
+P0593,Hematology,31.0,Northeast,56.0,
+P0594,GP,14.0,Midwest,62.0,28.0
+P0595,GP,15.0,Southeast,47.0,91.0
+P0596,GP,8.0,West,49.0,63.0
+P0597,GP,5.0,West,,80.0
+P0598,Hematology,8.0,Southeast,,48.0
+P0599,Hematology,15.0,Northeast,,92.0
+P0600,GP,10.0,Midwest,56.0,
+P0601,General_Practice,21.0,Midwest,66.0,74.0
+P0602,GP,9.0,Southeast,49.0,38.0
+P0603,General_Practice,,Northeast,40.0,49.0
+P0604,General Practice,14.0,Midwest,48.0,48.0
+P0605,General Practice,5.0,Northeast,48.0,39.0
+P0606,General_Practice,9.0,Midwest,39.0,92.0
+P0607,GP,9.0,Southeast,53.0,58.0
+P0608,General_Practice,11.0,Northeast,,89.0
+P0609,General Practice,4.0,Southeast,64.0,86.0
+P0610,Oncology,2.0,Southeast,52.0,35.0
+P0611,General Practice,,Northeast,49.0,77.0
+P0612,General_Practice,14.0,Midwest,58.0,70.0
+P0613,Hematology,12.0,West,44.0,68.0
+P0614,GP,1.0,Northeast,53.0,
+P0615,Oncology,22.0,Northeast,,62.0
+P0616,GP,22.0,Midwest,46.0,80.0
+P0617,Oncology,3.0,Southeast,,46.0
+P0618,General_Practice,18.0,West,40.0,
+P0619,GP,-4.0,Midwest,52.0,45.0
+P0620,General Practice,-1.0,Northeast,47.0,
+P0621,General_Practice,3.0,Southeast,49.0,43.0
+P0622,GP,-1.0,Midwest,71.0,26.0
+P0623,General Practice,0.0,Northeast,34.0,55.0
+P0624,General_Practice,15.0,West,50.0,27.0
+P0625,General_Practice,20.0,Southeast,69.0,52.0
+P0626,Oncology,-1.0,Midwest,46.0,62.0
+P0627,Oncology,10.0,Northeast,41.0,97.0
+P0628,General Practice,25.0,West,,99.0
+P0629,Hematology,23.0,Northeast,43.0,54.0
+P0630,General Practice,23.0,Northeast,58.0,39.0
+P0631,Oncology,5.0,Midwest,,44.0
+P0632,General Practice,13.0,West,50.0,81.0
+P0633,General Practice,2.0,West,,83.0
+P0634,Oncology,26.0,Northeast,55.0,
+P0635,General_Practice,,Northeast,46.0,27.0
+P0636,General Practice,-12.0,Southeast,45.0,92.0
+P0637,GP,22.0,Southeast,55.0,70.0
+P0638,Oncology,19.0,Northeast,49.0,30.0
+P0639,General Practice,17.0,Southeast,53.0,74.0
+P0640,Hematology,8.0,West,51.0,
+P0641,Hematology,22.0,Southeast,53.0,55.0
+P0642,General_Practice,24.0,Northeast,41.0,
+P0643,Hematology,23.0,Midwest,61.0,36.0
+P0644,Hematology,20.0,Midwest,47.0,47.0
+P0645,General Practice,17.0,West,48.0,46.0
+P0646,General Practice,7.0,West,,40.0
+P0647,General Practice,9.0,West,39.0,78.0
+P0648,Hematology,-8.0,Northeast,50.0,81.0
+P0649,Oncology,0.0,Northeast,53.0,55.0
+P0650,General_Practice,8.0,Midwest,46.0,43.0
+P0651,GP,11.0,Midwest,52.0,81.0
+P0652,General Practice,29.0,Northeast,64.0,30.0
+P0653,GP,,Southeast,35.0,25.0
+P0654,Hematology,8.0,Midwest,43.0,81.0
+P0655,General Practice,8.0,Northeast,54.0,92.0
+P0656,Oncology,2.0,Northeast,65.0,78.0
+P0657,General_Practice,0.0,West,35.0,90.0
+P0658,GP,15.0,Southeast,50.0,30.0
+P0659,Hematology,24.0,West,39.0,71.0
+P0660,General_Practice,,Northeast,46.0,
+P0661,Oncology,20.0,Northeast,58.0,23.0
+P0662,Hematology,,Southeast,41.0,21.0
+P0663,Oncology,19.0,Midwest,48.0,33.0
+P0664,General_Practice,,Midwest,51.0,44.0
+P0665,General Practice,8.0,Northeast,49.0,48.0
+P0666,General Practice,20.0,Northeast,56.0,
+P0667,Hematology,26.0,Northeast,53.0,73.0
+P0668,General Practice,14.0,West,44.0,79.0
+P0669,General Practice,4.0,Southeast,43.0,31.0
+P0670,Oncology,20.0,Northeast,42.0,91.0
+P0671,General Practice,100.0,Southeast,46.0,47.0
+P0672,GP,-7.0,Southeast,47.0,49.0
+P0673,General_Practice,,Southeast,62.0,94.0
+P0674,General_Practice,30.0,Northeast,60.0,90.0
+P0675,GP,18.0,Southeast,60.0,20.0
+P0676,Hematology,16.0,Southeast,49.0,51.0
+P0677,General_Practice,31.0,West,50.0,84.0
+P0678,GP,5.0,West,48.0,55.0
+P0679,General Practice,,Southeast,50.0,32.0
+P0680,Oncology,10.0,Northeast,60.0,39.0
+P0681,General_Practice,,Northeast,51.0,84.0
+P0682,General Practice,7.0,Midwest,63.0,20.0
+P0683,GP,8.0,Northeast,53.0,60.0
+P0684,GP,15.0,Northeast,56.0,39.0
+P0685,General_Practice,4.0,Northeast,43.0,76.0
+P0686,Hematology,21.0,West,59.0,51.0
+P0687,GP,1.0,Midwest,47.0,81.0
+P0688,General Practice,17.0,Northeast,56.0,45.0
+P0689,Oncology,20.0,Southeast,60.0,68.0
+P0690,Hematology,11.0,Midwest,68.0,49.0
+P0691,Hematology,17.0,Midwest,35.0,52.0
+P0692,Hematology,10.0,West,33.0,48.0
+P0693,Oncology,,Midwest,41.0,71.0
+P0694,Oncology,8.0,Southeast,68.0,99.0
+P0695,Oncology,22.0,Midwest,43.0,43.0
+P0696,General Practice,14.0,Southeast,52.0,98.0
+P0697,Oncology,9.0,West,55.0,59.0
+P0698,Oncology,20.0,West,54.0,52.0
+P0699,GP,15.0,Southeast,52.0,80.0
+P0700,General_Practice,13.0,Southeast,57.0,81.0
+P0701,Oncology,6.0,Southeast,,37.0
+P0702,GP,31.0,West,54.0,
+P0703,General Practice,,West,57.0,99.0
+P0704,Oncology,100.0,Midwest,42.0,21.0
+P0705,General_Practice,18.0,Southeast,55.0,40.0
+P0706,General_Practice,18.0,Northeast,55.0,69.0
+P0707,General_Practice,14.0,Midwest,55.0,57.0
+P0708,General_Practice,12.0,West,46.0,
+P0709,Oncology,25.0,West,49.0,86.0
+P0710,General Practice,6.0,Midwest,,48.0
+P0711,General_Practice,11.0,Southeast,48.0,35.0
+P0712,GP,15.0,Southeast,56.0,
+P0713,Oncology,15.0,Northeast,43.0,76.0
+P0714,GP,100.0,West,33.0,87.0
+P0715,General Practice,150.0,Southeast,49.0,62.0
+P0716,General_Practice,32.0,West,52.0,83.0
+P0717,General Practice,6.0,West,43.0,72.0
+P0718,Hematology,4.0,Northeast,48.0,32.0
+P0719,General Practice,100.0,West,57.0,64.0
+P0720,General Practice,17.0,Northeast,54.0,
+P0721,GP,17.0,Northeast,47.0,67.0
+P0722,Hematology,24.0,West,44.0,62.0
+P0723,General_Practice,12.0,Northeast,,
+P0724,GP,28.0,Southeast,56.0,59.0
+P0725,Hematology,34.0,West,49.0,75.0
+P0726,Hematology,25.0,West,39.0,81.0
+P0727,General_Practice,13.0,Northeast,43.0,68.0
+P0728,Hematology,3.0,Northeast,45.0,28.0
+P0729,GP,,Southeast,,44.0
+P0730,General_Practice,24.0,Midwest,51.0,100.0
+P0731,Oncology,6.0,Southeast,46.0,88.0
+P0732,General_Practice,100.0,West,60.0,58.0
+P0733,Oncology,-20.0,Northeast,58.0,96.0
+P0734,Oncology,18.0,Northeast,45.0,63.0
+P0735,GP,,Midwest,54.0,33.0
+P0736,Hematology,10.0,West,47.0,38.0
+P0737,GP,17.0,West,55.0,98.0
+P0738,General_Practice,31.0,Southeast,45.0,45.0
+P0739,Hematology,14.0,Northeast,57.0,86.0
+P0740,GP,-1.0,West,52.0,63.0
+P0741,General Practice,19.0,West,64.0,82.0
+P0742,Hematology,2.0,Midwest,48.0,66.0
+P0743,General_Practice,17.0,Midwest,42.0,35.0
+P0744,Oncology,19.0,Midwest,53.0,41.0
+P0745,GP,0.0,West,51.0,90.0
+P0746,Oncology,36.0,Midwest,47.0,34.0
+P0747,Oncology,,Midwest,54.0,58.0
+P0748,GP,24.0,Northeast,,
+P0749,Oncology,4.0,Midwest,51.0,77.0
+P0750,General Practice,21.0,Southeast,52.0,57.0
+P0751,General_Practice,2.0,West,39.0,58.0
+P0752,Oncology,6.0,West,45.0,26.0
+P0753,General_Practice,7.0,West,43.0,33.0
+P0754,General Practice,8.0,Northeast,42.0,23.0
+P0755,Hematology,5.0,West,66.0,34.0
+P0756,Hematology,,Northeast,50.0,51.0
+P0757,Hematology,-4.0,Midwest,57.0,66.0
+P0758,General Practice,-1.0,West,50.0,
+P0759,General Practice,23.0,Northeast,63.0,24.0
+P0760,General_Practice,9.0,Northeast,49.0,67.0
+P0761,GP,8.0,Southeast,45.0,84.0
+P0762,GP,16.0,Southeast,48.0,31.0
+P0763,Oncology,24.0,West,37.0,83.0
+P0764,General Practice,-1.0,Northeast,45.0,39.0
+P0765,General_Practice,,Midwest,49.0,
+P0766,Hematology,28.0,Midwest,37.0,73.0
+P0767,General_Practice,18.0,West,42.0,85.0
+P0768,GP,21.0,West,51.0,27.0
+P0769,Oncology,9.0,Northeast,54.0,33.0
+P0770,GP,24.0,Midwest,55.0,83.0
+P0771,General Practice,19.0,Northeast,54.0,31.0
+P0772,General Practice,,Midwest,51.0,27.0
+P0773,GP,24.0,Northeast,36.0,73.0
+P0774,GP,100.0,Midwest,46.0,37.0
+P0775,GP,-1.0,Southeast,53.0,89.0
+P0776,Hematology,19.0,Southeast,47.0,100.0
+P0777,GP,100.0,West,44.0,83.0
+P0778,Oncology,0.0,Midwest,59.0,39.0
+P0779,Oncology,19.0,West,51.0,57.0
+P0780,General_Practice,16.0,Northeast,42.0,76.0
+P0781,Oncology,18.0,Midwest,,88.0
+P0782,GP,-7.0,Northeast,,56.0
+P0783,Oncology,24.0,Northeast,50.0,79.0
+P0784,Oncology,9.0,Midwest,50.0,
+P0785,Oncology,19.0,Northeast,38.0,84.0
+P0786,General_Practice,3.0,Northeast,47.0,79.0
+P0787,GP,11.0,Midwest,65.0,81.0
+P0788,General_Practice,,West,43.0,49.0
+P0789,Hematology,150.0,Northeast,43.0,78.0
+P0790,Hematology,27.0,Midwest,53.0,34.0
+P0791,General Practice,10.0,Northeast,49.0,28.0
+P0792,Oncology,11.0,Midwest,,59.0
+P0793,Oncology,9.0,Midwest,51.0,
+P0794,General Practice,9.0,West,54.0,90.0
+P0795,GP,9.0,West,59.0,
+P0796,Oncology,31.0,Northeast,50.0,39.0
+P0797,General_Practice,10.0,Midwest,57.0,74.0
+P0798,Oncology,35.0,Northeast,49.0,78.0
+P0799,General Practice,24.0,West,52.0,68.0
+P0800,Hematology,30.0,Southeast,,77.0
+P0801,Hematology,,Northeast,51.0,89.0
+P0802,General_Practice,2.0,Northeast,42.0,65.0
+P0803,General Practice,4.0,Northeast,41.0,77.0
+P0804,Hematology,9.0,West,,51.0
+P0805,General Practice,,Midwest,,85.0
+P0806,Oncology,9.0,Northeast,,20.0
+P0807,Hematology,,West,47.0,26.0
+P0808,Hematology,13.0,Southeast,53.0,21.0
+P0809,Hematology,21.0,Northeast,58.0,29.0
+P0810,General Practice,15.0,West,47.0,68.0
+P0811,GP,16.0,Midwest,38.0,83.0
+P0812,Oncology,-4.0,Midwest,50.0,57.0
+P0813,Oncology,,Midwest,38.0,75.0
+P0814,Oncology,12.0,Northeast,63.0,32.0
+P0815,General_Practice,10.0,West,47.0,53.0
+P0816,Oncology,32.0,West,39.0,86.0
+P0817,GP,8.0,Northeast,59.0,45.0
+P0818,General Practice,24.0,Southeast,53.0,83.0
+P0819,General_Practice,4.0,West,42.0,
+P0820,Hematology,-1.0,Northeast,48.0,94.0
+P0821,General Practice,18.0,Northeast,54.0,62.0
+P0822,GP,22.0,West,61.0,78.0
+P0823,Hematology,3.0,Northeast,44.0,33.0
+P0824,Oncology,10.0,Midwest,47.0,74.0
+P0825,GP,,Southeast,41.0,55.0
+P0826,Hematology,17.0,West,52.0,36.0
+P0827,Oncology,26.0,Midwest,35.0,31.0
+P0828,GP,22.0,West,39.0,45.0
+P0829,Oncology,13.0,Southeast,45.0,77.0
+P0830,GP,,West,57.0,87.0
+P0831,Hematology,21.0,Southeast,50.0,64.0
+P0832,General_Practice,4.0,Northeast,49.0,42.0
+P0833,General Practice,15.0,Northeast,46.0,95.0
+P0834,Hematology,8.0,Midwest,57.0,74.0
+P0835,Oncology,17.0,Midwest,36.0,76.0
+P0836,General Practice,1.0,Midwest,49.0,23.0
+P0837,General Practice,10.0,Northeast,46.0,85.0
+P0838,General_Practice,20.0,Midwest,48.0,90.0
+P0839,GP,4.0,West,,
+P0840,General Practice,20.0,Midwest,45.0,50.0
+P0841,General_Practice,17.0,Southeast,43.0,
+P0842,General_Practice,19.0,Southeast,48.0,43.0
+P0843,Hematology,22.0,Midwest,46.0,100.0
+P0844,GP,36.0,West,55.0,64.0
+P0845,General Practice,12.0,Midwest,51.0,80.0
+P0846,General Practice,150.0,Northeast,53.0,74.0
+P0847,General_Practice,21.0,West,51.0,
+P0848,Hematology,20.0,West,47.0,86.0
+P0849,General_Practice,4.0,West,63.0,25.0
+P0850,General_Practice,25.0,Midwest,,80.0
+P0851,GP,13.0,Southeast,56.0,30.0
+P0852,GP,,Southeast,58.0,100.0
+P0853,Oncology,34.0,Northeast,40.0,99.0
+P0854,General Practice,16.0,Northeast,58.0,90.0
+P0855,Hematology,4.0,West,48.0,20.0
+P0856,Hematology,10.0,Southeast,49.0,34.0
+P0857,Oncology,20.0,Southeast,,51.0
+P0858,Oncology,25.0,Northeast,,91.0
+P0859,Hematology,31.0,Midwest,46.0,
+P0860,General Practice,14.0,Northeast,49.0,
+P0861,General_Practice,150.0,West,35.0,26.0
+P0862,General_Practice,150.0,Northeast,45.0,53.0
+P0863,General_Practice,,Northeast,51.0,44.0
+P0864,Hematology,17.0,West,45.0,
+P0865,General Practice,22.0,Northeast,55.0,66.0
+P0866,General Practice,-1.0,Southeast,60.0,92.0
+P0867,GP,1.0,Midwest,37.0,88.0
+P0868,GP,17.0,West,46.0,
+P0869,General Practice,32.0,West,47.0,87.0
+P0870,General_Practice,8.0,West,50.0,42.0
+P0871,General_Practice,12.0,Northeast,50.0,23.0
+P0872,Hematology,,Northeast,60.0,42.0
+P0873,Oncology,33.0,Midwest,53.0,58.0
+P0874,General_Practice,7.0,Midwest,34.0,
+P0875,GP,20.0,Midwest,44.0,87.0
+P0876,Hematology,16.0,Southeast,50.0,39.0
+P0877,Oncology,8.0,Midwest,,
+P0878,Hematology,27.0,Midwest,,78.0
+P0879,General Practice,16.0,Northeast,49.0,94.0
+P0880,GP,29.0,West,45.0,77.0
+P0881,GP,9.0,Northeast,47.0,79.0
+P0882,Oncology,34.0,Northeast,44.0,28.0
+P0883,Hematology,16.0,Southeast,49.0,29.0
+P0884,GP,6.0,Southeast,,80.0
+P0885,Hematology,9.0,Midwest,61.0,86.0
+P0886,GP,12.0,Southeast,33.0,94.0
+P0887,Hematology,150.0,Northeast,32.0,93.0
+P0888,Oncology,23.0,Northeast,43.0,23.0
+P0889,Oncology,17.0,West,,79.0
+P0890,Oncology,,Midwest,53.0,95.0
+P0891,Oncology,13.0,Southeast,60.0,65.0
+P0892,General_Practice,12.0,Northeast,43.0,95.0
+P0893,GP,17.0,Southeast,49.0,30.0
+P0894,General_Practice,9.0,Southeast,65.0,89.0
+P0895,Hematology,15.0,Southeast,61.0,30.0
+P0896,Oncology,-7.0,Midwest,,91.0
+P0897,General Practice,27.0,West,48.0,89.0
+P0898,Oncology,150.0,Southeast,46.0,69.0
+P0899,General Practice,-2.0,West,64.0,53.0
+P0900,Hematology,14.0,West,55.0,20.0
+P0901,Hematology,20.0,West,61.0,90.0
+P0902,Oncology,13.0,Midwest,52.0,35.0
+P0903,Oncology,19.0,Northeast,48.0,23.0
+P0904,General Practice,27.0,Midwest,47.0,75.0
+P0905,General_Practice,16.0,West,55.0,72.0
+P0906,Oncology,12.0,West,,42.0
+P0907,Oncology,15.0,Southeast,39.0,21.0
+P0908,General_Practice,26.0,Midwest,,37.0
+P0909,Hematology,22.0,Midwest,58.0,94.0
+P0910,Oncology,18.0,Northeast,,38.0
+P0911,Hematology,14.0,Northeast,48.0,
+P0912,GP,12.0,Midwest,51.0,
+P0913,General Practice,8.0,Northeast,46.0,77.0
+P0914,Oncology,25.0,West,55.0,
+P0915,General_Practice,17.0,Southeast,50.0,43.0
+P0916,General_Practice,,Southeast,38.0,
+P0917,General_Practice,16.0,West,52.0,97.0
+P0918,General_Practice,14.0,Northeast,48.0,55.0
+P0919,GP,,Midwest,50.0,
+P0920,GP,19.0,Southeast,61.0,29.0
+P0921,General Practice,10.0,Northeast,64.0,80.0
+P0922,Hematology,150.0,Northeast,59.0,29.0
+P0923,GP,21.0,Southeast,48.0,
+P0924,GP,13.0,Northeast,47.0,82.0
+P0925,General_Practice,29.0,Southeast,43.0,98.0
+P0926,Oncology,13.0,West,,82.0
+P0927,Oncology,,Southeast,48.0,29.0
+P0928,Oncology,24.0,Southeast,75.0,94.0
+P0929,GP,-3.0,Northeast,52.0,34.0
+P0930,GP,23.0,West,48.0,97.0
+P0931,GP,24.0,Southeast,41.0,43.0
+P0932,Hematology,21.0,Midwest,56.0,55.0
+P0933,General_Practice,18.0,Midwest,44.0,41.0
+P0934,General Practice,15.0,Southeast,44.0,48.0
+P0935,Hematology,150.0,Southeast,57.0,44.0
+P0936,General_Practice,-1.0,Midwest,48.0,30.0
+P0937,GP,17.0,Northeast,52.0,59.0
+P0938,General_Practice,8.0,Northeast,54.0,25.0
+P0939,General_Practice,16.0,Southeast,53.0,49.0
+P0940,Oncology,12.0,Northeast,52.0,72.0
+P0941,General_Practice,-3.0,Northeast,55.0,44.0
+P0942,General Practice,15.0,Northeast,44.0,79.0
+P0943,General Practice,15.0,Northeast,53.0,24.0
+P0944,Oncology,15.0,Midwest,56.0,98.0
+P0945,Oncology,18.0,Northeast,,41.0
+P0946,General Practice,7.0,Northeast,,78.0
+P0947,General Practice,5.0,West,,84.0
+P0948,Oncology,17.0,West,48.0,86.0
+P0949,Oncology,24.0,Northeast,51.0,66.0
+P0950,GP,17.0,Southeast,51.0,71.0
+P0951,GP,19.0,Northeast,48.0,61.0
+P0952,General_Practice,150.0,Northeast,48.0,67.0
+P0953,Hematology,100.0,Northeast,,82.0
+P0954,General Practice,21.0,Southeast,58.0,54.0
+P0955,GP,12.0,Midwest,,22.0
+P0956,General Practice,15.0,West,51.0,39.0
+P0957,General_Practice,,West,40.0,93.0
+P0958,General_Practice,8.0,West,57.0,
+P0959,Hematology,17.0,Northeast,32.0,53.0
+P0960,Hematology,17.0,Northeast,57.0,82.0
+P0961,Hematology,-1.0,Midwest,57.0,28.0
+P0962,General_Practice,5.0,Northeast,61.0,62.0
+P0963,General_Practice,,West,47.0,83.0
+P0964,General_Practice,1.0,Southeast,59.0,96.0
+P0965,GP,-7.0,Northeast,64.0,82.0
+P0966,General_Practice,,West,51.0,43.0
+P0967,General Practice,12.0,Northeast,51.0,47.0
+P0968,General_Practice,9.0,Northeast,38.0,28.0
+P0969,General_Practice,37.0,West,37.0,31.0
+P0970,General_Practice,-1.0,West,61.0,29.0
+P0971,GP,-5.0,Midwest,47.0,88.0
+P0972,General Practice,1.0,West,43.0,89.0
+P0973,General Practice,13.0,Southeast,41.0,42.0
+P0974,Hematology,5.0,Northeast,43.0,
+P0975,Hematology,15.0,Northeast,50.0,74.0
+P0976,Hematology,35.0,West,66.0,87.0
+P0977,General Practice,6.0,West,51.0,29.0
+P0978,GP,22.0,Northeast,55.0,47.0
+P0979,Oncology,-2.0,West,56.0,90.0
+P0980,Hematology,20.0,West,42.0,70.0
+P0981,General Practice,12.0,Midwest,51.0,50.0
+P0982,Hematology,100.0,Northeast,47.0,87.0
+P0983,Oncology,11.0,West,46.0,98.0
+P0984,Hematology,18.0,West,43.0,34.0
+P0985,General_Practice,,Northeast,44.0,85.0
+P0986,Oncology,2.0,Northeast,44.0,50.0
+P0987,General Practice,24.0,Midwest,52.0,
+P0988,GP,21.0,West,48.0,25.0
+P0989,GP,4.0,Midwest,53.0,20.0
+P0990,Hematology,8.0,West,53.0,99.0
+P0991,Hematology,0.0,Southeast,45.0,67.0
+P0992,Oncology,4.0,West,,77.0
+P0993,Hematology,20.0,Northeast,,46.0
+P0994,General_Practice,,Midwest,45.0,90.0
+P0995,Oncology,,Southeast,75.0,21.0
+P0996,Oncology,,Midwest,,29.0
+P0997,General_Practice,20.0,Southeast,53.0,80.0
+P0998,Hematology,16.0,Northeast,50.0,62.0
+P0999,General Practice,31.0,Northeast,56.0,58.0
+P1000,Oncology,-1.0,Midwest,47.0,89.0
+P0001,GP,5.0,Southeast,43.0,43.0
+P0002,General_Practice,16.0,Northeast,44.0,87.0
+P0003,Oncology,0.0,West,59.0,97.0
+P0004,General_Practice,,Midwest,53.0,45.0
+P0005,General_Practice,18.0,Midwest,66.0,38.0
+P0006,General Practice,16.0,Midwest,57.0,
+P0007,GP,19.0,Midwest,38.0,98.0
+P0008,GP,19.0,Midwest,,47.0
+P0009,Hematology,15.0,Midwest,57.0,
+P0010,Hematology,19.0,Northeast,45.0,23.0
+P0011,GP,21.0,Midwest,47.0,74.0
+P0012,General_Practice,,Southeast,,41.0
+P0013,Hematology,19.0,Midwest,49.0,62.0
+P0014,General Practice,,West,,29.0
+P0015,General_Practice,10.0,Southeast,60.0,
+P0016,Oncology,10.0,Southeast,39.0,
+P0017,Oncology,,West,49.0,64.0
+P0018,General_Practice,17.0,Southeast,52.0,57.0
+P0019,GP,9.0,Southeast,47.0,88.0
+P0020,Oncology,12.0,Northeast,,88.0
+P0021,Hematology,,Southeast,73.0,92.0
+P0022,Oncology,16.0,Midwest,50.0,51.0
+P0023,Oncology,16.0,West,59.0,21.0
+P0024,General_Practice,31.0,Southeast,39.0,23.0
+P0025,General Practice,21.0,Southeast,53.0,32.0
+P0026,General Practice,23.0,Southeast,,26.0
+P0027,General Practice,15.0,West,50.0,52.0
+P0028,Oncology,11.0,Southeast,56.0,22.0
+P0029,General_Practice,27.0,West,45.0,
+P0030,GP,26.0,West,60.0,86.0
+P0031,GP,16.0,Southeast,53.0,44.0
+P0032,General_Practice,14.0,Midwest,55.0,43.0
+P0033,GP,1.0,Southeast,55.0,75.0
+P0034,General_Practice,0.0,Southeast,57.0,29.0
+P0035,General Practice,11.0,West,49.0,75.0
+P0036,General_Practice,6.0,Midwest,56.0,26.0
+P0037,Oncology,150.0,Northeast,,66.0
+P0038,General_Practice,11.0,Midwest,,46.0
+P0039,General Practice,5.0,Northeast,60.0,
+P0040,General_Practice,37.0,Midwest,47.0,57.0
+P0041,General_Practice,18.0,Southeast,49.0,
+P0042,Hematology,5.0,Midwest,58.0,40.0
+P0043,General Practice,33.0,West,,36.0
+P0044,Oncology,100.0,West,63.0,88.0
+P0045,Oncology,10.0,Northeast,49.0,89.0
+P0046,GP,21.0,Northeast,48.0,
+P0047,GP,150.0,Southeast,53.0,68.0
+P0048,General_Practice,13.0,Northeast,38.0,60.0
+P0049,Hematology,13.0,Northeast,39.0,79.0
+P0050,Oncology,11.0,Southeast,39.0,
+P0051,General Practice,23.0,Midwest,,78.0
+P0052,GP,22.0,Southeast,52.0,64.0
+P0053,GP,16.0,Southeast,50.0,88.0
+P0054,GP,14.0,West,43.0,95.0
+P0055,GP,11.0,Northeast,38.0,57.0
+P0056,Oncology,5.0,Southeast,50.0,62.0
+P0057,Hematology,33.0,West,46.0,52.0
+P0058,GP,20.0,Northeast,42.0,86.0
+P0059,General Practice,2.0,Midwest,54.0,37.0
+P0060,Oncology,33.0,Midwest,,61.0
+P0061,Oncology,9.0,West,,65.0
+P0062,GP,16.0,West,45.0,25.0
+P0063,GP,,West,48.0,31.0
+P0064,General Practice,25.0,Midwest,50.0,48.0
+P0065,General Practice,12.0,Southeast,66.0,91.0
+P0066,Oncology,15.0,Northeast,59.0,99.0
+P0067,Hematology,0.0,West,49.0,
+P0068,Hematology,19.0,Midwest,47.0,98.0
+P0069,Hematology,42.0,Midwest,49.0,
+P0070,General_Practice,19.0,Southeast,46.0,87.0
+P0071,General_Practice,35.0,Midwest,46.0,79.0
+P0072,General Practice,47.0,Southeast,44.0,
+P0073,GP,36.0,Northeast,,80.0
+P0074,GP,-4.0,West,49.0,
+P0075,GP,10.0,Midwest,58.0,63.0
+P0076,GP,15.0,Southeast,51.0,25.0
+P0077,General_Practice,8.0,Southeast,49.0,
+P0078,General_Practice,6.0,Midwest,,46.0
+P0079,GP,24.0,West,59.0,90.0
+P0080,GP,26.0,West,48.0,31.0
+P0081,Hematology,37.0,Midwest,51.0,
+P0082,Oncology,11.0,West,55.0,71.0
+P0083,Oncology,16.0,Midwest,56.0,92.0
+P0084,General_Practice,13.0,Southeast,58.0,47.0
+P0085,Oncology,20.0,West,64.0,28.0
+P0086,GP,,Southeast,,23.0
+P0087,General Practice,18.0,Midwest,53.0,97.0
+P0088,General_Practice,-3.0,West,57.0,67.0
+P0089,Hematology,17.0,Midwest,44.0,
+P0090,General_Practice,,West,,95.0
+P0091,General Practice,12.0,Midwest,,45.0
+P0092,Hematology,1.0,Midwest,54.0,40.0
+P0093,GP,13.0,West,55.0,89.0
+P0094,Hematology,27.0,Southeast,46.0,83.0
+P0095,Oncology,0.0,Midwest,43.0,
+P0096,Oncology,,West,50.0,
+P0097,Oncology,31.0,West,45.0,84.0
+P0098,General_Practice,18.0,Midwest,56.0,98.0
+P0099,Hematology,0.0,Southeast,57.0,
+P0100,General_Practice,,West,62.0,39.0
+P0101,General Practice,,Northeast,58.0,85.0
+P0102,Hematology,28.0,West,,80.0
+P0103,Oncology,8.0,Midwest,56.0,34.0
+P0104,Hematology,35.0,Midwest,54.0,64.0
+P0105,General Practice,15.0,Northeast,51.0,29.0
+P0106,General_Practice,24.0,West,49.0,33.0
+P0107,GP,14.0,Midwest,58.0,32.0
+P0108,GP,22.0,Northeast,46.0,73.0
+P0109,General_Practice,10.0,Southeast,53.0,30.0
+P0110,Hematology,10.0,Southeast,52.0,50.0
+P0111,Hematology,4.0,West,,21.0
+P0112,Oncology,,West,44.0,84.0
+P0113,Hematology,30.0,Midwest,57.0,55.0
+P0114,GP,-1.0,Northeast,34.0,32.0
+P0115,Hematology,18.0,Northeast,60.0,
+P0116,Oncology,0.0,Northeast,52.0,30.0
+P0117,General Practice,25.0,Midwest,47.0,39.0
+P0118,General Practice,18.0,Midwest,45.0,71.0
+P0119,GP,,Southeast,56.0,43.0
+P0120,Hematology,5.0,Midwest,,37.0
+P0121,General Practice,3.0,West,46.0,94.0
+P0122,General_Practice,13.0,Northeast,51.0,53.0
+P0123,GP,100.0,West,66.0,81.0
+P0124,GP,17.0,Northeast,47.0,47.0
+P0125,General_Practice,9.0,West,35.0,99.0
+P0126,Hematology,2.0,Midwest,47.0,38.0
+P0127,GP,1.0,Midwest,53.0,53.0
+P0128,Oncology,12.0,West,55.0,71.0
+P0129,GP,26.0,Northeast,49.0,100.0
+P0130,Hematology,7.0,Midwest,61.0,48.0
+P0131,GP,9.0,Northeast,44.0,85.0
+P0132,Oncology,20.0,Midwest,53.0,49.0
+P0133,General Practice,-1.0,Northeast,49.0,26.0
+P0134,Oncology,21.0,Southeast,33.0,96.0
+P0135,Hematology,-1.0,Northeast,50.0,45.0
+P0136,General_Practice,13.0,West,46.0,59.0
+P0137,Hematology,31.0,West,52.0,82.0
+P0138,Hematology,42.0,Midwest,38.0,30.0
+P0139,Oncology,7.0,West,58.0,70.0
+P0140,General Practice,14.0,Midwest,39.0,47.0
+P0141,Oncology,18.0,Northeast,47.0,49.0
+P0142,General_Practice,0.0,Midwest,69.0,51.0
+P0143,GP,-2.0,Southeast,39.0,69.0
+P0144,General_Practice,12.0,Southeast,54.0,52.0
+P0145,General_Practice,15.0,Northeast,46.0,80.0
+P0146,General Practice,11.0,West,64.0,97.0
+P0147,General Practice,5.0,Midwest,53.0,60.0
+P0148,Hematology,3.0,West,54.0,40.0
+P0149,Hematology,8.0,West,50.0,73.0
+P0150,General_Practice,20.0,West,48.0,61.0
+P0151,GP,,Midwest,,49.0
+P0152,Oncology,8.0,Northeast,46.0,67.0
+P0153,Oncology,0.0,Northeast,55.0,
+P0154,Oncology,7.0,Northeast,39.0,53.0
+P0155,General_Practice,2.0,West,45.0,67.0
+P0156,Hematology,,Northeast,48.0,84.0
+P0157,GP,15.0,Southeast,40.0,30.0
+P0158,Oncology,20.0,Southeast,32.0,43.0
+P0159,Hematology,21.0,Southeast,55.0,
+P0160,Hematology,15.0,Southeast,67.0,39.0
+P0161,Oncology,17.0,Northeast,42.0,70.0
+P0162,General Practice,,Southeast,38.0,36.0
+P0163,General_Practice,8.0,Midwest,59.0,54.0
+P0164,General Practice,21.0,West,51.0,88.0
+P0165,Hematology,13.0,Southeast,46.0,100.0
+P0166,GP,27.0,West,46.0,42.0
+P0167,Oncology,30.0,West,59.0,66.0
+P0168,Oncology,150.0,Northeast,54.0,34.0
+P0169,Hematology,16.0,Midwest,44.0,81.0
+P0170,GP,29.0,Southeast,,28.0
+P0171,Oncology,,West,56.0,68.0
+P0172,Hematology,18.0,Southeast,48.0,86.0
+P0173,GP,12.0,Northeast,53.0,38.0
+P0174,Hematology,22.0,Midwest,51.0,90.0
+P0175,GP,-1.0,West,52.0,60.0
+P0176,General Practice,24.0,Northeast,49.0,26.0
+P0177,Oncology,3.0,West,56.0,40.0
+P0178,General Practice,6.0,West,50.0,60.0
+P0179,General_Practice,9.0,Midwest,46.0,44.0
+P0180,Hematology,28.0,West,62.0,56.0
+P0181,General_Practice,17.0,West,54.0,26.0
+P0182,Hematology,9.0,Southeast,58.0,39.0
+P0183,GP,,West,48.0,100.0
+P0184,Hematology,12.0,Southeast,54.0,95.0
+P0185,General Practice,21.0,West,41.0,94.0
+P0186,GP,,Midwest,45.0,56.0
+P0187,Hematology,29.0,Midwest,58.0,96.0
+P0188,Hematology,-20.0,Northeast,61.0,70.0
+P0189,Oncology,24.0,West,50.0,37.0
+P0190,Oncology,13.0,West,58.0,37.0
+P0191,Hematology,13.0,Southeast,53.0,75.0
+P0192,General Practice,11.0,Northeast,46.0,55.0
+P0193,Oncology,22.0,Midwest,50.0,98.0
+P0194,General_Practice,11.0,Northeast,49.0,33.0
+P0195,General Practice,18.0,Southeast,48.0,87.0
+P0196,Hematology,22.0,Midwest,51.0,53.0
+P0197,General Practice,24.0,Northeast,42.0,77.0
+P0198,General_Practice,-11.0,Northeast,40.0,67.0
+P0199,General Practice,150.0,Northeast,48.0,24.0
+P0200,General_Practice,19.0,West,58.0,20.0
+P0201,Oncology,26.0,West,68.0,27.0
+P0202,General Practice,29.0,Midwest,,
+P0203,Oncology,13.0,Southeast,54.0,27.0
+P0204,General Practice,-3.0,Southeast,49.0,68.0
+P0205,General Practice,10.0,Northeast,47.0,
+P0206,Oncology,12.0,Midwest,54.0,27.0
+P0207,General Practice,38.0,Midwest,56.0,68.0
+P0208,General_Practice,3.0,West,54.0,93.0
+P0209,Oncology,4.0,Southeast,49.0,51.0
+P0210,GP,15.0,Northeast,42.0,59.0
+P0211,Hematology,-1.0,Midwest,44.0,87.0
+P0212,Oncology,25.0,Southeast,50.0,
+P0213,Hematology,7.0,Northeast,51.0,57.0
+P0214,Oncology,1.0,West,57.0,52.0
+P0215,GP,24.0,Southeast,38.0,39.0
+P0216,Oncology,33.0,Midwest,55.0,75.0
+P0217,General_Practice,10.0,Southeast,51.0,53.0
+P0218,Hematology,21.0,Southeast,47.0,67.0
+P0219,GP,22.0,Southeast,50.0,
+P0220,General_Practice,4.0,Midwest,46.0,99.0
+P0221,General Practice,18.0,West,48.0,49.0
+P0222,GP,20.0,West,53.0,28.0
+P0223,Oncology,6.0,Midwest,42.0,80.0
+P0224,GP,17.0,West,40.0,
+P0225,General Practice,18.0,West,52.0,72.0
+P0226,General_Practice,20.0,Northeast,51.0,94.0
+P0227,General_Practice,0.0,Midwest,58.0,36.0
+P0228,Hematology,14.0,Northeast,52.0,88.0
+P0229,Hematology,23.0,Northeast,31.0,62.0
+P0230,Oncology,12.0,Northeast,43.0,80.0
+P0231,Oncology,9.0,Southeast,56.0,72.0
+P0232,GP,14.0,Northeast,44.0,76.0
+P0233,Oncology,25.0,West,,52.0
+P0234,Hematology,17.0,Northeast,42.0,55.0
+P0235,General_Practice,,West,44.0,
+P0236,General Practice,13.0,Southeast,46.0,91.0
+P0237,Hematology,31.0,Midwest,53.0,
+P0238,General Practice,9.0,West,53.0,20.0
+P0239,GP,8.0,West,56.0,50.0
+P0240,General Practice,7.0,Northeast,48.0,42.0
+P0241,GP,16.0,Midwest,46.0,40.0
+P0242,General Practice,3.0,West,52.0,75.0
+P0243,Oncology,1.0,West,48.0,72.0
+P0244,Oncology,6.0,Northeast,59.0,48.0
+P0245,General Practice,20.0,Northeast,51.0,65.0
+P0246,General_Practice,30.0,Northeast,47.0,38.0
+P0247,Oncology,33.0,Northeast,43.0,81.0
+P0248,GP,21.0,Midwest,49.0,84.0
+P0249,Oncology,8.0,Southeast,48.0,44.0
+P0250,General Practice,25.0,Southeast,,93.0
+P0251,General Practice,24.0,Midwest,47.0,51.0
+P0252,General Practice,15.0,Midwest,41.0,40.0
+P0253,General_Practice,20.0,Southeast,41.0,
+P0254,Hematology,,West,58.0,92.0
+P0255,Hematology,,West,43.0,50.0
+P0256,General_Practice,,Southeast,,82.0
+P0257,General Practice,5.0,Northeast,59.0,77.0
+P0258,GP,21.0,Midwest,57.0,27.0
+P0259,GP,23.0,Southeast,,54.0
+P0260,Oncology,,West,,
+P0261,GP,13.0,Midwest,53.0,31.0
+P0262,Oncology,25.0,Southeast,47.0,30.0
+P0263,Hematology,20.0,West,59.0,83.0
+P0264,GP,19.0,West,51.0,45.0
+P0265,General Practice,,Northeast,,78.0
+P0266,Oncology,25.0,West,45.0,
+P0267,Oncology,9.0,West,39.0,100.0
+P0268,Oncology,14.0,West,50.0,65.0
+P0269,Hematology,19.0,Midwest,43.0,48.0
+P0270,General_Practice,27.0,West,,95.0
+P0271,GP,35.0,Midwest,44.0,79.0
+P0272,General Practice,21.0,Southeast,61.0,52.0
+P0273,General_Practice,3.0,Northeast,39.0,100.0
+P0274,General Practice,32.0,Midwest,65.0,
+P0275,GP,26.0,Southeast,35.0,43.0
+P0276,General Practice,7.0,Midwest,51.0,85.0
+P0277,Oncology,39.0,West,51.0,41.0
+P0278,General_Practice,,Northeast,55.0,
+P0279,General Practice,10.0,Northeast,,43.0
+P0280,Oncology,150.0,Southeast,69.0,
+P0281,General Practice,16.0,Northeast,47.0,37.0
+P0282,General_Practice,30.0,West,45.0,94.0
+P0283,Oncology,,Southeast,43.0,
+P0284,General_Practice,30.0,Midwest,45.0,
+P0285,Hematology,19.0,Midwest,48.0,37.0
+P0286,GP,8.0,West,48.0,68.0
+P0287,General_Practice,26.0,West,49.0,71.0
+P0288,Oncology,31.0,Southeast,49.0,55.0
+P0289,Hematology,14.0,Midwest,59.0,100.0
+P0290,Hematology,7.0,West,44.0,52.0
+P0291,Oncology,3.0,West,53.0,89.0
+P0292,GP,9.0,Southeast,49.0,65.0
+P0293,Oncology,100.0,Northeast,42.0,87.0
+P0294,GP,24.0,Midwest,49.0,90.0
+P0295,GP,21.0,Midwest,53.0,45.0
+P0296,General_Practice,-7.0,Southeast,49.0,26.0
+P0297,Hematology,4.0,Northeast,,94.0
+P0298,Oncology,17.0,Northeast,51.0,67.0
+P0299,GP,19.0,Southeast,51.0,21.0
+P0300,Oncology,3.0,West,50.0,41.0
+P0301,Oncology,32.0,West,49.0,
+P0302,General Practice,7.0,Northeast,47.0,40.0
+P0303,General Practice,10.0,Midwest,47.0,55.0
+P0304,General_Practice,11.0,Northeast,45.0,84.0
+P0305,General Practice,29.0,Midwest,41.0,
+P0306,General_Practice,17.0,Southeast,38.0,51.0
+P0307,GP,16.0,Northeast,52.0,64.0
+P0308,General Practice,13.0,West,51.0,78.0
+P0309,General Practice,27.0,Southeast,48.0,88.0
+P0310,Oncology,22.0,West,51.0,
+P0311,Oncology,15.0,Midwest,54.0,73.0
+P0312,GP,0.0,Midwest,45.0,68.0
+P0313,General Practice,13.0,Southeast,,60.0
+P0314,GP,,West,51.0,30.0
+P0315,General_Practice,7.0,West,50.0,21.0
+P0316,General_Practice,31.0,West,54.0,46.0
+P0317,General_Practice,33.0,Midwest,60.0,45.0
+P0318,GP,12.0,Southeast,48.0,57.0
+P0319,GP,,West,70.0,87.0
+P0320,Oncology,13.0,West,44.0,100.0
+P0321,General_Practice,9.0,West,50.0,58.0
+P0322,GP,17.0,Midwest,61.0,35.0
+P0323,Oncology,11.0,Midwest,,78.0
+P0324,Oncology,20.0,Southeast,61.0,33.0
+P0325,Oncology,1.0,Northeast,60.0,63.0
+P0326,GP,30.0,Northeast,54.0,92.0
+P0327,General Practice,17.0,Midwest,47.0,63.0
+P0328,GP,-1.0,Northeast,50.0,45.0
+P0329,General_Practice,24.0,West,49.0,44.0
+P0330,General Practice,14.0,Southeast,57.0,38.0
+P0331,GP,16.0,Southeast,47.0,46.0
+P0332,General_Practice,,Southeast,57.0,94.0
+P0333,Hematology,23.0,Southeast,50.0,80.0
+P0334,Oncology,20.0,Southeast,45.0,28.0
+P0335,General Practice,,Midwest,46.0,
+P0336,Oncology,19.0,Northeast,44.0,61.0
+P0337,Hematology,12.0,Northeast,41.0,73.0
+P0338,General_Practice,21.0,Midwest,38.0,89.0
+P0339,GP,8.0,Northeast,59.0,45.0
+P0340,General_Practice,21.0,Midwest,56.0,59.0
+P0341,General Practice,10.0,West,44.0,43.0
+P0342,GP,7.0,Southeast,48.0,77.0
+P0343,General Practice,24.0,Midwest,60.0,70.0
+P0344,Oncology,,Northeast,53.0,86.0
+P0345,Hematology,28.0,Southeast,43.0,83.0
+P0346,Oncology,8.0,Midwest,,22.0
+P0347,Oncology,17.0,Northeast,36.0,48.0
+P0348,General Practice,2.0,Northeast,38.0,55.0
+P0349,GP,17.0,West,58.0,47.0
+P0350,Oncology,32.0,Northeast,33.0,77.0
+P0351,Hematology,,Southeast,46.0,83.0
+P0352,General Practice,,Southeast,54.0,56.0
+P0353,General Practice,,Northeast,46.0,90.0
+P0354,Oncology,13.0,Northeast,46.0,99.0
+P0355,Hematology,9.0,Midwest,48.0,69.0
+P0356,General_Practice,,Midwest,54.0,82.0
+P0357,General Practice,20.0,Northeast,53.0,65.0
+P0358,Hematology,-8.0,Midwest,50.0,68.0
+P0359,GP,-4.0,Southeast,53.0,75.0
+P0360,Oncology,12.0,West,54.0,52.0
+P0361,General_Practice,25.0,Midwest,53.0,40.0
+P0362,General Practice,14.0,West,,
+P0363,General Practice,1.0,West,59.0,
+P0364,Hematology,,West,48.0,
+P0365,General Practice,17.0,Northeast,51.0,72.0
+P0366,GP,3.0,Midwest,,43.0
+P0367,General Practice,4.0,Southeast,57.0,39.0
+P0368,General Practice,15.0,Northeast,58.0,44.0
+P0369,General_Practice,19.0,Southeast,50.0,46.0
+P0370,Oncology,19.0,Midwest,,63.0
+P0371,Hematology,15.0,West,53.0,92.0
+P0372,General Practice,2.0,Midwest,54.0,
+P0373,General_Practice,10.0,Midwest,57.0,86.0
+P0374,Hematology,17.0,Southeast,56.0,49.0
+P0375,GP,,Midwest,44.0,41.0
+P0376,Oncology,-4.0,Northeast,43.0,34.0
+P0377,GP,12.0,West,47.0,65.0
+P0378,GP,150.0,Southeast,57.0,78.0
+P0379,GP,32.0,Southeast,43.0,20.0
+P0380,GP,19.0,Northeast,61.0,42.0
+P0381,General Practice,14.0,Northeast,52.0,68.0
+P0382,General Practice,31.0,Midwest,35.0,
+P0383,General_Practice,12.0,Midwest,46.0,58.0
+P0384,Hematology,14.0,West,48.0,77.0
+P0385,Hematology,26.0,Midwest,51.0,76.0
+P0386,General_Practice,14.0,Midwest,39.0,50.0
+P0387,General_Practice,21.0,West,51.0,74.0
+P0388,Hematology,18.0,Northeast,40.0,46.0
+P0389,General_Practice,17.0,Northeast,48.0,100.0
+P0390,GP,4.0,Northeast,65.0,86.0
+P0391,General Practice,9.0,Southeast,48.0,73.0
+P0392,General Practice,25.0,Midwest,56.0,63.0
+P0393,Oncology,12.0,Northeast,,89.0
+P0394,General_Practice,15.0,Midwest,50.0,25.0
+P0395,GP,,West,50.0,100.0
+P0396,GP,,West,40.0,55.0
+P0397,GP,100.0,Northeast,56.0,65.0
+P0398,Oncology,23.0,Northeast,51.0,33.0
+P0399,Oncology,2.0,West,59.0,59.0
+P0400,General_Practice,100.0,West,42.0,
+P0401,GP,25.0,West,52.0,
+P0402,Hematology,22.0,Midwest,47.0,48.0
+P0403,Hematology,10.0,Midwest,47.0,35.0
+P0404,General_Practice,-3.0,Northeast,47.0,87.0
+P0405,Hematology,8.0,Southeast,40.0,25.0
+P0406,Hematology,7.0,West,,77.0
+P0407,Oncology,29.0,Midwest,40.0,41.0
+P0408,General Practice,29.0,Northeast,63.0,49.0
+P0409,General Practice,13.0,Northeast,52.0,60.0
+P0410,GP,,Southeast,38.0,45.0
+P0411,General_Practice,11.0,Midwest,52.0,86.0
+P0412,GP,6.0,Northeast,64.0,64.0
+P0413,Hematology,8.0,Southeast,65.0,44.0
+P0414,Oncology,11.0,West,59.0,34.0
+P0415,General Practice,40.0,Southeast,48.0,59.0
+P0416,Oncology,-5.0,Northeast,43.0,84.0
+P0417,Oncology,-8.0,Midwest,59.0,59.0
+P0418,General_Practice,150.0,Northeast,48.0,37.0
+P0419,General Practice,21.0,Midwest,68.0,72.0
+P0420,General Practice,9.0,Northeast,54.0,69.0
+P0421,Oncology,-9.0,Midwest,63.0,37.0
+P0422,Hematology,19.0,Midwest,51.0,81.0
+P0423,Hematology,23.0,Southeast,34.0,64.0
+P0424,Hematology,20.0,West,43.0,37.0
+P0425,General Practice,15.0,Southeast,45.0,79.0
+P0426,Oncology,6.0,Midwest,39.0,72.0
+P0427,GP,18.0,West,60.0,82.0
+P0428,GP,12.0,Southeast,54.0,34.0
+P0429,General Practice,25.0,Northeast,49.0,52.0
+P0430,GP,20.0,Midwest,51.0,74.0
+P0431,GP,21.0,West,53.0,93.0
+P0432,Oncology,22.0,West,51.0,45.0
+P0433,Oncology,9.0,West,44.0,85.0
+P0434,General Practice,-2.0,Southeast,60.0,95.0
+P0435,Hematology,8.0,Midwest,57.0,88.0
+P0436,GP,17.0,Northeast,53.0,62.0
+P0437,General Practice,17.0,Midwest,42.0,23.0
+P0438,Hematology,,Northeast,57.0,78.0
+P0439,GP,-1.0,Northeast,42.0,46.0
+P0440,GP,25.0,Northeast,51.0,59.0
+P0441,Oncology,22.0,Northeast,45.0,64.0
+P0442,General_Practice,12.0,West,56.0,33.0
+P0443,Oncology,18.0,Northeast,64.0,56.0
+P0444,Oncology,32.0,West,49.0,49.0
+P0445,General_Practice,-6.0,Southeast,43.0,77.0
+P0446,GP,,Northeast,51.0,47.0
+P0447,Hematology,17.0,Southeast,51.0,47.0
+P0448,General Practice,21.0,Southeast,53.0,43.0
+P0449,Oncology,25.0,Northeast,51.0,27.0
+P0450,Hematology,,West,54.0,53.0
+P0451,GP,8.0,Southeast,49.0,37.0
+P0452,Oncology,28.0,Southeast,41.0,21.0
+P0453,Oncology,13.0,Northeast,57.0,96.0
+P0454,General Practice,9.0,Midwest,55.0,79.0
+P0455,GP,150.0,West,48.0,100.0
+P0456,General Practice,,Midwest,49.0,85.0
+P0457,General_Practice,6.0,Northeast,56.0,55.0
+P0458,Hematology,-4.0,Southeast,50.0,40.0
+P0459,Oncology,15.0,Southeast,55.0,42.0
+P0460,Oncology,3.0,West,50.0,61.0
+P0461,Oncology,7.0,Midwest,46.0,36.0
+P0462,GP,20.0,West,38.0,52.0
+P0463,General_Practice,18.0,Southeast,51.0,24.0
+P0464,Oncology,16.0,West,48.0,100.0
+P0465,Oncology,12.0,West,60.0,82.0
+P0466,Oncology,100.0,Midwest,59.0,63.0
+P0467,Oncology,22.0,Northeast,45.0,68.0
+P0468,Hematology,24.0,Midwest,46.0,
+P0469,GP,,West,49.0,98.0
+P0470,Oncology,10.0,West,46.0,
+P0471,Oncology,16.0,Southeast,41.0,
+P0472,GP,28.0,Northeast,,43.0
+P0473,General_Practice,7.0,Midwest,54.0,33.0
+P0474,GP,12.0,Southeast,39.0,21.0
+P0475,Hematology,9.0,West,48.0,29.0
+P0476,General_Practice,0.0,Midwest,53.0,66.0
+P0477,GP,21.0,West,40.0,76.0
+P0478,Oncology,22.0,Midwest,63.0,21.0
+P0479,GP,1.0,West,63.0,39.0
+P0480,General_Practice,7.0,Southeast,54.0,79.0
+P0481,Hematology,1.0,West,35.0,73.0
+P0482,Oncology,12.0,Northeast,56.0,81.0
+P0483,Hematology,21.0,Northeast,51.0,
+P0484,Oncology,19.0,Southeast,44.0,49.0
+P0485,Oncology,150.0,West,54.0,92.0
+P0486,General_Practice,4.0,Northeast,57.0,49.0
+P0487,GP,21.0,Northeast,45.0,53.0
+P0488,Oncology,8.0,Midwest,51.0,33.0
+P0489,General Practice,23.0,Midwest,48.0,58.0
+P0490,GP,20.0,Southeast,58.0,52.0
+P0491,General Practice,15.0,Southeast,40.0,63.0
+P0492,Oncology,24.0,West,43.0,99.0
+P0493,Oncology,27.0,Southeast,63.0,72.0
+P0494,General Practice,22.0,West,50.0,40.0
+P0495,General_Practice,3.0,Southeast,,84.0
+P0496,General Practice,4.0,Northeast,59.0,68.0
+P0497,General_Practice,,Midwest,46.0,25.0
+P0498,GP,5.0,Midwest,51.0,56.0
+P0499,General Practice,11.0,West,54.0,67.0
+P0500,GP,5.0,West,,47.0
+P0501,General Practice,150.0,Northeast,45.0,52.0
+P0502,Hematology,7.0,Southeast,50.0,39.0
+P0503,GP,15.0,West,47.0,
+P0504,Oncology,20.0,Midwest,49.0,
+P0505,Oncology,,Southeast,,25.0
+P0506,GP,6.0,Southeast,,100.0
+P0507,Oncology,17.0,West,59.0,47.0
+P0508,Oncology,17.0,West,58.0,
+P0509,Hematology,0.0,Midwest,46.0,97.0
+P0510,Oncology,17.0,West,42.0,75.0
+P0511,Oncology,13.0,Midwest,44.0,54.0
+P0512,General Practice,2.0,Southeast,47.0,82.0
+P0513,General_Practice,,Northeast,52.0,78.0
+P0514,GP,12.0,Northeast,62.0,48.0
+P0515,General_Practice,5.0,Midwest,,96.0
+P0516,General Practice,20.0,Northeast,60.0,
+P0517,GP,17.0,West,40.0,22.0
+P0518,GP,19.0,Southeast,52.0,91.0
+P0519,Hematology,4.0,Southeast,,
+P0520,General Practice,-3.0,Northeast,56.0,61.0
+P0521,General Practice,18.0,Southeast,57.0,36.0
+P0522,Oncology,21.0,Midwest,45.0,87.0
+P0523,Oncology,29.0,Southeast,46.0,100.0
+P0524,GP,,West,50.0,70.0
+P0525,Hematology,-1.0,West,49.0,97.0
+P0526,Oncology,-1.0,Midwest,42.0,32.0
+P0527,General Practice,10.0,West,,43.0
+P0528,Oncology,31.0,Southeast,,55.0
+P0529,General_Practice,29.0,Southeast,49.0,78.0
+P0530,General_Practice,7.0,Southeast,54.0,75.0
+P0531,Hematology,6.0,Midwest,43.0,59.0
+P0532,Oncology,11.0,Northeast,,63.0
+P0533,General_Practice,19.0,Southeast,53.0,20.0
+P0534,GP,,Northeast,,76.0
+P0535,Hematology,20.0,West,,81.0
+P0536,GP,16.0,Southeast,48.0,41.0
+P0537,GP,24.0,Midwest,52.0,79.0
+P0538,General Practice,18.0,West,50.0,58.0
+P0539,Oncology,20.0,West,70.0,45.0
+P0540,General Practice,,Midwest,43.0,77.0
+P0541,GP,20.0,Southeast,52.0,41.0
+P0542,General_Practice,30.0,West,,43.0
+P0543,General_Practice,26.0,Southeast,,67.0
+P0544,General_Practice,10.0,Southeast,56.0,54.0
+P0545,GP,3.0,West,61.0,44.0
+P0546,General Practice,15.0,Northeast,,37.0
+P0547,Oncology,15.0,Midwest,39.0,78.0
+P0548,Oncology,10.0,Southeast,,100.0
+P0549,Hematology,150.0,Midwest,51.0,91.0
+P0550,Hematology,9.0,Midwest,40.0,90.0
+P0551,General Practice,24.0,Northeast,,85.0
+P0552,Hematology,,West,42.0,46.0
+P0553,General Practice,18.0,Northeast,47.0,59.0
+P0554,GP,18.0,West,48.0,
+P0555,General_Practice,-5.0,West,47.0,73.0
+P0556,Hematology,14.0,West,49.0,64.0
+P0557,Hematology,21.0,Midwest,44.0,50.0
+P0558,Hematology,-9.0,West,44.0,49.0
+P0559,GP,10.0,Northeast,48.0,79.0
+P0560,General Practice,,West,44.0,36.0
+P0561,GP,1.0,Midwest,45.0,60.0
+P0562,General_Practice,14.0,Midwest,44.0,39.0
+P0563,Oncology,25.0,Northeast,44.0,90.0
+P0564,GP,17.0,West,57.0,23.0
+P0565,Oncology,18.0,Midwest,53.0,50.0
+P0566,GP,30.0,Northeast,50.0,73.0
+P0567,General Practice,26.0,Northeast,45.0,66.0
+P0568,Oncology,22.0,Northeast,47.0,
+P0569,General Practice,14.0,Northeast,42.0,22.0
+P0570,General_Practice,27.0,Northeast,,68.0
+P0571,General Practice,,Southeast,64.0,81.0
+P0572,GP,12.0,Midwest,49.0,85.0
+P0573,GP,14.0,West,55.0,79.0
+P0574,Oncology,26.0,West,55.0,45.0
+P0575,Hematology,19.0,Northeast,57.0,30.0
+P0576,Hematology,13.0,Northeast,48.0,
+P0577,Oncology,18.0,West,63.0,42.0
+P0578,GP,15.0,Southeast,63.0,55.0
+P0579,Hematology,-1.0,Southeast,46.0,79.0
+P0580,General_Practice,19.0,Midwest,47.0,57.0
+P0581,General Practice,16.0,Midwest,46.0,57.0
+P0582,General Practice,17.0,Northeast,43.0,42.0
+P0583,GP,19.0,Midwest,57.0,100.0
+P0584,GP,14.0,West,58.0,80.0
+P0585,Hematology,,Southeast,48.0,53.0
+P0586,General_Practice,-2.0,West,42.0,68.0
+P0587,Oncology,33.0,Northeast,53.0,65.0
+P0588,Hematology,22.0,West,40.0,76.0
+P0589,General_Practice,15.0,Southeast,38.0,74.0
+P0590,GP,,Northeast,42.0,90.0
+P0591,Hematology,7.0,West,50.0,99.0
+P0592,Hematology,,Southeast,46.0,91.0
+P0593,Hematology,31.0,Northeast,56.0,
+P0594,GP,14.0,Midwest,62.0,28.0
+P0595,GP,15.0,Southeast,47.0,91.0
+P0596,GP,8.0,West,49.0,63.0
+P0597,GP,5.0,West,,80.0
+P0598,Hematology,8.0,Southeast,,48.0
+P0599,Hematology,15.0,Northeast,,92.0
+P0600,GP,10.0,Midwest,56.0,
+P0601,General_Practice,21.0,Midwest,66.0,74.0
+P0602,GP,9.0,Southeast,49.0,38.0
+P0603,General_Practice,,Northeast,40.0,49.0
+P0604,General Practice,14.0,Midwest,48.0,48.0
+P0605,General Practice,5.0,Northeast,48.0,39.0
+P0606,General_Practice,9.0,Midwest,39.0,92.0
+P0607,GP,9.0,Southeast,53.0,58.0
+P0608,General_Practice,11.0,Northeast,,89.0
+P0609,General Practice,4.0,Southeast,64.0,86.0
+P0610,Oncology,2.0,Southeast,52.0,35.0
+P0611,General Practice,,Northeast,49.0,77.0
+P0612,General_Practice,14.0,Midwest,58.0,70.0
+P0613,Hematology,12.0,West,44.0,68.0
+P0614,GP,1.0,Northeast,53.0,
+P0615,Oncology,22.0,Northeast,,62.0
+P0616,GP,22.0,Midwest,46.0,80.0
+P0617,Oncology,3.0,Southeast,,46.0
+P0618,General_Practice,18.0,West,40.0,
+P0619,GP,-4.0,Midwest,52.0,45.0
+P0620,General Practice,-1.0,Northeast,47.0,
+P0621,General_Practice,3.0,Southeast,49.0,43.0
+P0622,GP,-1.0,Midwest,71.0,26.0
+P0623,General Practice,0.0,Northeast,34.0,55.0
+P0624,General_Practice,15.0,West,50.0,27.0
+P0625,General_Practice,20.0,Southeast,69.0,52.0
+P0626,Oncology,-1.0,Midwest,46.0,62.0
+P0627,Oncology,10.0,Northeast,41.0,97.0
+P0628,General Practice,25.0,West,,99.0
+P0629,Hematology,23.0,Northeast,43.0,54.0
+P0630,General Practice,23.0,Northeast,58.0,39.0
+P0631,Oncology,5.0,Midwest,,44.0
+P0632,General Practice,13.0,West,50.0,81.0
+P0633,General Practice,2.0,West,,83.0
+P0634,Oncology,26.0,Northeast,55.0,
+P0635,General_Practice,,Northeast,46.0,27.0
+P0636,General Practice,-12.0,Southeast,45.0,92.0
+P0637,GP,22.0,Southeast,55.0,70.0
+P0638,Oncology,19.0,Northeast,49.0,30.0
+P0639,General Practice,17.0,Southeast,53.0,74.0
+P0640,Hematology,8.0,West,51.0,
+P0641,Hematology,22.0,Southeast,53.0,55.0
+P0642,General_Practice,24.0,Northeast,41.0,
+P0643,Hematology,23.0,Midwest,61.0,36.0
+P0644,Hematology,20.0,Midwest,47.0,47.0
+P0645,General Practice,17.0,West,48.0,46.0
+P0646,General Practice,7.0,West,,40.0
+P0647,General Practice,9.0,West,39.0,78.0
+P0648,Hematology,-8.0,Northeast,50.0,81.0
+P0649,Oncology,0.0,Northeast,53.0,55.0
+P0650,General_Practice,8.0,Midwest,46.0,43.0
+P0651,GP,11.0,Midwest,52.0,81.0
+P0652,General Practice,29.0,Northeast,64.0,30.0
+P0653,GP,,Southeast,35.0,25.0
+P0654,Hematology,8.0,Midwest,43.0,81.0
+P0655,General Practice,8.0,Northeast,54.0,92.0
+P0656,Oncology,2.0,Northeast,65.0,78.0
+P0657,General_Practice,0.0,West,35.0,90.0
+P0658,GP,15.0,Southeast,50.0,30.0
+P0659,Hematology,24.0,West,39.0,71.0
+P0660,General_Practice,,Northeast,46.0,
+P0661,Oncology,20.0,Northeast,58.0,23.0
+P0662,Hematology,,Southeast,41.0,21.0
+P0663,Oncology,19.0,Midwest,48.0,33.0
+P0664,General_Practice,,Midwest,51.0,44.0
+P0665,General Practice,8.0,Northeast,49.0,48.0
+P0666,General Practice,20.0,Northeast,56.0,
+P0667,Hematology,26.0,Northeast,53.0,73.0
+P0668,General Practice,14.0,West,44.0,79.0
+P0669,General Practice,4.0,Southeast,43.0,31.0
+P0670,Oncology,20.0,Northeast,42.0,91.0
+P0671,General Practice,100.0,Southeast,46.0,47.0
+P0672,GP,-7.0,Southeast,47.0,49.0
+P0673,General_Practice,,Southeast,62.0,94.0
+P0674,General_Practice,30.0,Northeast,60.0,90.0
+P0675,GP,18.0,Southeast,60.0,20.0
+P0676,Hematology,16.0,Southeast,49.0,51.0
+P0677,General_Practice,31.0,West,50.0,84.0
+P0678,GP,5.0,West,48.0,55.0
+P0679,General Practice,,Southeast,50.0,32.0
+P0680,Oncology,10.0,Northeast,60.0,39.0
+P0681,General_Practice,,Northeast,51.0,84.0
+P0682,General Practice,7.0,Midwest,63.0,20.0
+P0683,GP,8.0,Northeast,53.0,60.0
+P0684,GP,15.0,Northeast,56.0,39.0
+P0685,General_Practice,4.0,Northeast,43.0,76.0
+P0686,Hematology,21.0,West,59.0,51.0
+P0687,GP,1.0,Midwest,47.0,81.0
+P0688,General Practice,17.0,Northeast,56.0,45.0
+P0689,Oncology,20.0,Southeast,60.0,68.0
+P0690,Hematology,11.0,Midwest,68.0,49.0
+P0691,Hematology,17.0,Midwest,35.0,52.0
+P0692,Hematology,10.0,West,33.0,48.0
+P0693,Oncology,,Midwest,41.0,71.0
+P0694,Oncology,8.0,Southeast,68.0,99.0
+P0695,Oncology,22.0,Midwest,43.0,43.0
+P0696,General Practice,14.0,Southeast,52.0,98.0
+P0697,Oncology,9.0,West,55.0,59.0
+P0698,Oncology,20.0,West,54.0,52.0
+P0699,GP,15.0,Southeast,52.0,80.0
+P0700,General_Practice,13.0,Southeast,57.0,81.0
+P0701,Oncology,6.0,Southeast,,37.0
+P0702,GP,31.0,West,54.0,
+P0703,General Practice,,West,57.0,99.0
+P0704,Oncology,100.0,Midwest,42.0,21.0
+P0705,General_Practice,18.0,Southeast,55.0,40.0
+P0706,General_Practice,18.0,Northeast,55.0,69.0
+P0707,General_Practice,14.0,Midwest,55.0,57.0
+P0708,General_Practice,12.0,West,46.0,
+P0709,Oncology,25.0,West,49.0,86.0
+P0710,General Practice,6.0,Midwest,,48.0
+P0711,General_Practice,11.0,Southeast,48.0,35.0
+P0712,GP,15.0,Southeast,56.0,
+P0713,Oncology,15.0,Northeast,43.0,76.0
+P0714,GP,100.0,West,33.0,87.0
+P0715,General Practice,150.0,Southeast,49.0,62.0
+P0716,General_Practice,32.0,West,52.0,83.0
+P0717,General Practice,6.0,West,43.0,72.0
+P0718,Hematology,4.0,Northeast,48.0,32.0
+P0719,General Practice,100.0,West,57.0,64.0
+P0720,General Practice,17.0,Northeast,54.0,
+P0721,GP,17.0,Northeast,47.0,67.0
+P0722,Hematology,24.0,West,44.0,62.0
+P0723,General_Practice,12.0,Northeast,,
+P0724,GP,28.0,Southeast,56.0,59.0
+P0725,Hematology,34.0,West,49.0,75.0
+P0726,Hematology,25.0,West,39.0,81.0
+P0727,General_Practice,13.0,Northeast,43.0,68.0
+P0728,Hematology,3.0,Northeast,45.0,28.0
+P0729,GP,,Southeast,,44.0
+P0730,General_Practice,24.0,Midwest,51.0,100.0
+P0731,Oncology,6.0,Southeast,46.0,88.0
+P0732,General_Practice,100.0,West,60.0,58.0
+P0733,Oncology,-20.0,Northeast,58.0,96.0
+P0734,Oncology,18.0,Northeast,45.0,63.0
+P0735,GP,,Midwest,54.0,33.0
+P0736,Hematology,10.0,West,47.0,38.0
+P0737,GP,17.0,West,55.0,98.0
+P0738,General_Practice,31.0,Southeast,45.0,45.0
+P0739,Hematology,14.0,Northeast,57.0,86.0
+P0740,GP,-1.0,West,52.0,63.0
+P0741,General Practice,19.0,West,64.0,82.0
+P0742,Hematology,2.0,Midwest,48.0,66.0
+P0743,General_Practice,17.0,Midwest,42.0,35.0
+P0744,Oncology,19.0,Midwest,53.0,41.0
+P0745,GP,0.0,West,51.0,90.0
+P0746,Oncology,36.0,Midwest,47.0,34.0
+P0747,Oncology,,Midwest,54.0,58.0
+P0748,GP,24.0,Northeast,,
+P0749,Oncology,4.0,Midwest,51.0,77.0
+P0750,General Practice,21.0,Southeast,52.0,57.0
+P0751,General_Practice,2.0,West,39.0,58.0
+P0752,Oncology,6.0,West,45.0,26.0
+P0753,General_Practice,7.0,West,43.0,33.0
+P0754,General Practice,8.0,Northeast,42.0,23.0
+P0755,Hematology,5.0,West,66.0,34.0
+P0756,Hematology,,Northeast,50.0,51.0
+P0757,Hematology,-4.0,Midwest,57.0,66.0
+P0758,General Practice,-1.0,West,50.0,
+P0759,General Practice,23.0,Northeast,63.0,24.0
+P0760,General_Practice,9.0,Northeast,49.0,67.0
+P0761,GP,8.0,Southeast,45.0,84.0
+P0762,GP,16.0,Southeast,48.0,31.0
+P0763,Oncology,24.0,West,37.0,83.0
+P0764,General Practice,-1.0,Northeast,45.0,39.0
+P0765,General_Practice,,Midwest,49.0,
+P0766,Hematology,28.0,Midwest,37.0,73.0
+P0767,General_Practice,18.0,West,42.0,85.0
+P0768,GP,21.0,West,51.0,27.0
+P0769,Oncology,9.0,Northeast,54.0,33.0
+P0770,GP,24.0,Midwest,55.0,83.0
+P0771,General Practice,19.0,Northeast,54.0,31.0
+P0772,General Practice,,Midwest,51.0,27.0
+P0773,GP,24.0,Northeast,36.0,73.0
+P0774,GP,100.0,Midwest,46.0,37.0
+P0775,GP,-1.0,Southeast,53.0,89.0
+P0776,Hematology,19.0,Southeast,47.0,100.0
+P0777,GP,100.0,West,44.0,83.0
+P0778,Oncology,0.0,Midwest,59.0,39.0
+P0779,Oncology,19.0,West,51.0,57.0
+P0780,General_Practice,16.0,Northeast,42.0,76.0
+P0781,Oncology,18.0,Midwest,,88.0
+P0782,GP,-7.0,Northeast,,56.0
+P0783,Oncology,24.0,Northeast,50.0,79.0
+P0784,Oncology,9.0,Midwest,50.0,
+P0785,Oncology,19.0,Northeast,38.0,84.0
+P0786,General_Practice,3.0,Northeast,47.0,79.0
+P0787,GP,11.0,Midwest,65.0,81.0
+P0788,General_Practice,,West,43.0,49.0
+P0789,Hematology,150.0,Northeast,43.0,78.0
+P0790,Hematology,27.0,Midwest,53.0,34.0
+P0791,General Practice,10.0,Northeast,49.0,28.0
+P0792,Oncology,11.0,Midwest,,59.0
+P0793,Oncology,9.0,Midwest,51.0,
+P0794,General Practice,9.0,West,54.0,90.0
+P0795,GP,9.0,West,59.0,
+P0796,Oncology,31.0,Northeast,50.0,39.0
+P0797,General_Practice,10.0,Midwest,57.0,74.0
+P0798,Oncology,35.0,Northeast,49.0,78.0
+P0799,General Practice,24.0,West,52.0,68.0
+P0800,Hematology,30.0,Southeast,,77.0
+P0801,Hematology,,Northeast,51.0,89.0
+P0802,General_Practice,2.0,Northeast,42.0,65.0
+P0803,General Practice,4.0,Northeast,41.0,77.0
+P0804,Hematology,9.0,West,,51.0
+P0805,General Practice,,Midwest,,85.0
+P0806,Oncology,9.0,Northeast,,20.0
+P0807,Hematology,,West,47.0,26.0
+P0808,Hematology,13.0,Southeast,53.0,21.0
+P0809,Hematology,21.0,Northeast,58.0,29.0
+P0810,General Practice,15.0,West,47.0,68.0
+P0811,GP,16.0,Midwest,38.0,83.0
+P0812,Oncology,-4.0,Midwest,50.0,57.0
+P0813,Oncology,,Midwest,38.0,75.0
+P0814,Oncology,12.0,Northeast,63.0,32.0
+P0815,General_Practice,10.0,West,47.0,53.0
+P0816,Oncology,32.0,West,39.0,86.0
+P0817,GP,8.0,Northeast,59.0,45.0
+P0818,General Practice,24.0,Southeast,53.0,83.0
+P0819,General_Practice,4.0,West,42.0,
+P0820,Hematology,-1.0,Northeast,48.0,94.0
+P0821,General Practice,18.0,Northeast,54.0,62.0
+P0822,GP,22.0,West,61.0,78.0
+P0823,Hematology,3.0,Northeast,44.0,33.0
+P0824,Oncology,10.0,Midwest,47.0,74.0
+P0825,GP,,Southeast,41.0,55.0
+P0826,Hematology,17.0,West,52.0,36.0
+P0827,Oncology,26.0,Midwest,35.0,31.0
+P0828,GP,22.0,West,39.0,45.0
+P0829,Oncology,13.0,Southeast,45.0,77.0
+P0830,GP,,West,57.0,87.0
+P0831,Hematology,21.0,Southeast,50.0,64.0
+P0832,General_Practice,4.0,Northeast,49.0,42.0
+P0833,General Practice,15.0,Northeast,46.0,95.0
+P0834,Hematology,8.0,Midwest,57.0,74.0
+P0835,Oncology,17.0,Midwest,36.0,76.0
+P0836,General Practice,1.0,Midwest,49.0,23.0
+P0837,General Practice,10.0,Northeast,46.0,85.0
+P0838,General_Practice,20.0,Midwest,48.0,90.0
+P0839,GP,4.0,West,,
+P0840,General Practice,20.0,Midwest,45.0,50.0
+P0841,General_Practice,17.0,Southeast,43.0,
+P0842,General_Practice,19.0,Southeast,48.0,43.0
+P0843,Hematology,22.0,Midwest,46.0,100.0
+P0844,GP,36.0,West,55.0,64.0
+P0845,General Practice,12.0,Midwest,51.0,80.0
+P0846,General Practice,150.0,Northeast,53.0,74.0
+P0847,General_Practice,21.0,West,51.0,
+P0848,Hematology,20.0,West,47.0,86.0
+P0849,General_Practice,4.0,West,63.0,25.0
+P0850,General_Practice,25.0,Midwest,,80.0
+P0851,GP,13.0,Southeast,56.0,30.0
+P0852,GP,,Southeast,58.0,100.0
+P0853,Oncology,34.0,Northeast,40.0,99.0
+P0854,General Practice,16.0,Northeast,58.0,90.0
+P0855,Hematology,4.0,West,48.0,20.0
+P0856,Hematology,10.0,Southeast,49.0,34.0
+P0857,Oncology,20.0,Southeast,,51.0
+P0858,Oncology,25.0,Northeast,,91.0
+P0859,Hematology,31.0,Midwest,46.0,
+P0860,General Practice,14.0,Northeast,49.0,
+P0861,General_Practice,150.0,West,35.0,26.0
+P0862,General_Practice,150.0,Northeast,45.0,53.0
+P0863,General_Practice,,Northeast,51.0,44.0
+P0864,Hematology,17.0,West,45.0,
+P0865,General Practice,22.0,Northeast,55.0,66.0
+P0866,General Practice,-1.0,Southeast,60.0,92.0
+P0867,GP,1.0,Midwest,37.0,88.0
+P0868,GP,17.0,West,46.0,
+P0869,General Practice,32.0,West,47.0,87.0
+P0870,General_Practice,8.0,West,50.0,42.0
+P0871,General_Practice,12.0,Northeast,50.0,23.0
+P0872,Hematology,,Northeast,60.0,42.0
+P0873,Oncology,33.0,Midwest,53.0,58.0
+P0874,General_Practice,7.0,Midwest,34.0,
+P0875,GP,20.0,Midwest,44.0,87.0
+P0876,Hematology,16.0,Southeast,50.0,39.0
+P0877,Oncology,8.0,Midwest,,
+P0878,Hematology,27.0,Midwest,,78.0
+P0879,General Practice,16.0,Northeast,49.0,94.0
+P0880,GP,29.0,West,45.0,77.0
+P0881,GP,9.0,Northeast,47.0,79.0
+P0882,Oncology,34.0,Northeast,44.0,28.0
+P0883,Hematology,16.0,Southeast,49.0,29.0
+P0884,GP,6.0,Southeast,,80.0
+P0885,Hematology,9.0,Midwest,61.0,86.0
+P0886,GP,12.0,Southeast,33.0,94.0
+P0887,Hematology,150.0,Northeast,32.0,93.0
+P0888,Oncology,23.0,Northeast,43.0,23.0
+P0889,Oncology,17.0,West,,79.0
+P0890,Oncology,,Midwest,53.0,95.0
+P0891,Oncology,13.0,Southeast,60.0,65.0
+P0892,General_Practice,12.0,Northeast,43.0,95.0
+P0893,GP,17.0,Southeast,49.0,30.0
+P0894,General_Practice,9.0,Southeast,65.0,89.0
+P0895,Hematology,15.0,Southeast,61.0,30.0
+P0896,Oncology,-7.0,Midwest,,91.0
+P0897,General Practice,27.0,West,48.0,89.0
+P0898,Oncology,150.0,Southeast,46.0,69.0
+P0899,General Practice,-2.0,West,64.0,53.0
+P0900,Hematology,14.0,West,55.0,20.0
+P0901,Hematology,20.0,West,61.0,90.0
+P0902,Oncology,13.0,Midwest,52.0,35.0
+P0903,Oncology,19.0,Northeast,48.0,23.0
+P0904,General Practice,27.0,Midwest,47.0,75.0
+P0905,General_Practice,16.0,West,55.0,72.0
+P0906,Oncology,12.0,West,,42.0
+P0907,Oncology,15.0,Southeast,39.0,21.0
+P0908,General_Practice,26.0,Midwest,,37.0
+P0909,Hematology,22.0,Midwest,58.0,94.0
+P0910,Oncology,18.0,Northeast,,38.0
+P0911,Hematology,14.0,Northeast,48.0,
+P0912,GP,12.0,Midwest,51.0,
+P0913,General Practice,8.0,Northeast,46.0,77.0
+P0914,Oncology,25.0,West,55.0,
+P0915,General_Practice,17.0,Southeast,50.0,43.0
+P0916,General_Practice,,Southeast,38.0,
+P0917,General_Practice,16.0,West,52.0,97.0
+P0918,General_Practice,14.0,Northeast,48.0,55.0
+P0919,GP,,Midwest,50.0,
+P0920,GP,19.0,Southeast,61.0,29.0
+P0921,General Practice,10.0,Northeast,64.0,80.0
+P0922,Hematology,150.0,Northeast,59.0,29.0
+P0923,GP,21.0,Southeast,48.0,
+P0924,GP,13.0,Northeast,47.0,82.0
+P0925,General_Practice,29.0,Southeast,43.0,98.0
+P0926,Oncology,13.0,West,,82.0
+P0927,Oncology,,Southeast,48.0,29.0
+P0928,Oncology,24.0,Southeast,75.0,94.0
+P0929,GP,-3.0,Northeast,52.0,34.0
+P0930,GP,23.0,West,48.0,97.0
+P0931,GP,24.0,Southeast,41.0,43.0
+P0932,Hematology,21.0,Midwest,56.0,55.0
+P0933,General_Practice,18.0,Midwest,44.0,41.0
+P0934,General Practice,15.0,Southeast,44.0,48.0
+P0935,Hematology,150.0,Southeast,57.0,44.0
+P0936,General_Practice,-1.0,Midwest,48.0,30.0
+P0937,GP,17.0,Northeast,52.0,59.0
+P0938,General_Practice,8.0,Northeast,54.0,25.0
+P0939,General_Practice,16.0,Southeast,53.0,49.0
+P0940,Oncology,12.0,Northeast,52.0,72.0
+P0941,General_Practice,-3.0,Northeast,55.0,44.0
+P0942,General Practice,15.0,Northeast,44.0,79.0
+P0943,General Practice,15.0,Northeast,53.0,24.0
+P0944,Oncology,15.0,Midwest,56.0,98.0
+P0945,Oncology,18.0,Northeast,,41.0
+P0946,General Practice,7.0,Northeast,,78.0
+P0947,General Practice,5.0,West,,84.0
+P0948,Oncology,17.0,West,48.0,86.0
+P0949,Oncology,24.0,Northeast,51.0,66.0
+P0950,GP,17.0,Southeast,51.0,71.0
+P0951,GP,19.0,Northeast,48.0,61.0
+P0952,General_Practice,150.0,Northeast,48.0,67.0
+P0953,Hematology,100.0,Northeast,,82.0
+P0954,General Practice,21.0,Southeast,58.0,54.0
+P0955,GP,12.0,Midwest,,22.0
+P0956,General Practice,15.0,West,51.0,39.0
+P0957,General_Practice,,West,40.0,93.0
+P0958,General_Practice,8.0,West,57.0,
+P0959,Hematology,17.0,Northeast,32.0,53.0
+P0960,Hematology,17.0,Northeast,57.0,82.0
+P0961,Hematology,-1.0,Midwest,57.0,28.0
+P0962,General_Practice,5.0,Northeast,61.0,62.0
+P0963,General_Practice,,West,47.0,83.0
+P0964,General_Practice,1.0,Southeast,59.0,96.0
+P0965,GP,-7.0,Northeast,64.0,82.0
+P0966,General_Practice,,West,51.0,43.0
+P0967,General Practice,12.0,Northeast,51.0,47.0
+P0968,General_Practice,9.0,Northeast,38.0,28.0
+P0969,General_Practice,37.0,West,37.0,31.0
+P0970,General_Practice,-1.0,West,61.0,29.0
+P0971,GP,-5.0,Midwest,47.0,88.0
+P0972,General Practice,1.0,West,43.0,89.0
+P0973,General Practice,13.0,Southeast,41.0,42.0
+P0974,Hematology,5.0,Northeast,43.0,
+P0975,Hematology,15.0,Northeast,50.0,74.0
+P0976,Hematology,35.0,West,66.0,87.0
+P0977,General Practice,6.0,West,51.0,29.0
+P0978,GP,22.0,Northeast,55.0,47.0
+P0979,Oncology,-2.0,West,56.0,90.0
+P0980,Hematology,20.0,West,42.0,70.0
+P0981,General Practice,12.0,Midwest,51.0,50.0
+P0982,Hematology,100.0,Northeast,47.0,87.0
+P0983,Oncology,11.0,West,46.0,98.0
+P0984,Hematology,18.0,West,43.0,34.0
+P0985,General_Practice,,Northeast,44.0,85.0
+P0986,Oncology,2.0,Northeast,44.0,50.0
+P0987,General Practice,24.0,Midwest,52.0,
+P0988,GP,21.0,West,48.0,25.0
+P0989,GP,4.0,Midwest,53.0,20.0
+P0990,Hematology,8.0,West,53.0,99.0
+P0991,Hematology,0.0,Southeast,45.0,67.0
+P0992,Oncology,4.0,West,,77.0
+P0993,Hematology,20.0,Northeast,,46.0
+P0994,General_Practice,,Midwest,45.0,90.0
+P0995,Oncology,,Southeast,75.0,21.0
+P0996,Oncology,,Midwest,,29.0
+P0997,General_Practice,20.0,Southeast,53.0,80.0
+P0998,Hematology,16.0,Northeast,50.0,62.0
+P0999,General Practice,31.0,Northeast,56.0,58.0
+P1000,Oncology,-1.0,Midwest,47.0,89.0
